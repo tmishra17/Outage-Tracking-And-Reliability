@@ -19,10 +19,10 @@ records = data['response']['data']
 print(records[0].keys())
 
 df = pd.DataFrame(records)
+
+df.to_csv("outage_data.csv", index=False)
 # print(df)
 df.head()
-
-plt.xticks(rotation=45, ha='right')
 plt.figure(figsize=(12, 5))
 plt.bar(df['period'], df['price'], label='Demand (MW)', color='blue')
 plt.title('Hourly Electricity Demand')
