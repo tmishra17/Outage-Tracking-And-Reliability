@@ -1,4 +1,4 @@
-from API_KEY import API_KEY, DATA_SET
+from ignore.API_KEY import API_KEY, DATA_SET
 import requests as rq
 import json
 import pandas as pd
@@ -20,7 +20,7 @@ print(records[0].keys())
 
 df = pd.DataFrame(records)
 
-df.to_csv("outage_data.csv", index=False)
+df.to_csv("/ignore/outage_data.csv", index=False)
 # print(df)
 df.head()
 plt.figure(figsize=(12, 5))
