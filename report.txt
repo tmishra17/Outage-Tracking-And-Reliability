@@ -1,1 +1,97 @@
 Haven't found any data yet, but trying to see if there are any trends with outages and stuff
+Load is higher near the end and beginning of the day, but towards the middle it is the lowest
+this is true for weekends and weekdays
+
+df['period'] = pd.to_datetime(df["period"])
+# focus on this project tomorrow, see how you can detect outage drops using matpltlib and seaborn
+# if you want
+# sns.barplot(data=df, x='period', y='price', color='blue', label='Demand (MW)')
+# df.plot(x='period', y='price', kind='bar', figsize=(12, 5), color='blue', title='Hourly Electricity Demand')
+# plt.xlabel('Time')
+# plt.ylabel('Price')
+# plt.xticks(ticks=range(0, len(df['period']), max(1, len(df['period']) // 10)),  # Show fewer labels
+#            labels=df['period'][::max(1, len(df['period']) // 10)],  # Subset of labels
+#            rotation=45, ha='right') 
+# plt.tight_layout()
+# plt.show()  
+# plt.figure(figsize=(12, 5))
+# plt.bar(df['period'], df['price'], label='Demand (MW)', color='blue')
+# plt.title('Hourly Electricity Demand')
+# plt.xlabel('Time')
+# plt.ylabel('Price')
+# plt.grid(True)
+# plt.legend()
+# plt.tight_layout()
+# plt.show()
+
+# 1. Confirm period column exists and fix types
+print("Columns:", df.columns)
+print("Dtypes before conversion:", df.dtypes)
+
+# 2. Force datetime parsing (drop any invalid dates)
+df['period'] = pd.to_datetime(df['period'], errors='coerce')
+df = df.dropna(subset=['period'])  # Drop bad rows
+df = df[df['value'].notnull()]     # Drop NaN values
+
+# 3. Sort for resampling to work
+df = df.sort_values('period')
+
+# 4. Resample to daily averages
+df_daily = df.set_index('period').resample('D')['value'].mean().reset_index()
+
+# 5. Print preview to check
+print(df_daily.head())
+
+# 6. Plot
+plt.figure(figsize=(12, 5))
+plt.plot(df_daily['period'], df_daily['value'], color='steelblue')
+
+plt.title("Daily Average Electricity Demand")
+plt.xlabel("Date")
+plt.ylabel("Average MW")
+
+# Format x-axis
+plt.gca().xaxis.set_major_locator(mdates.MonthLocator())
+plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%b %Y'))
+plt.xticks(rotation=45)
+
+plt.grid(True)
+plt.tight_layout()
+plt.show()
+
+
+df['day_of_week'] = df['period'].dt.day_name()
+df['hour'] = df['period'].dt.hour
+
+# Pivot table: avg demand per hour per day
+pivot = df.pivot_table(index='hour', columns='day_of_week', values='value', aggfunc='mean')
+
+# Order columns (Mon–Sun)
+days_order = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
+pivot = pivot[days_order]
+
+# Plot
+pivot.plot(figsize=(12, 6))
+plt.title("Hourly Electricity Demand by Day of Week")
+plt.xlabel("Hour")
+plt.ylabel("Average MW")
+plt.grid(True)
+plt.tight_layout()
+plt.legend(title='Day of Week')
+plt.show()
+
+df['hour'] = df['period'].dt.hour
+
+# Average demand by hour (across entire dataset)
+hourly_avg = df.groupby('hour')['value'].mean().reset_index()
+
+# Plot
+plt.figure(figsize=(10, 5))
+plt.plot(hourly_avg['hour'], hourly_avg['value'], marker='o')
+plt.title("Average Electricity Demand by Hour of Day")
+plt.xlabel("Hour")
+plt.ylabel("Average MW")
+plt.grid(True)
+plt.xticks(range(0, 24))
+plt.tight_layout()
+plt.show()

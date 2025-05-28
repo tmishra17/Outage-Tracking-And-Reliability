@@ -1,0 +1,1461 @@
+,period,respondent,respondent-name,type,type-name
+28,2024-12-30 17:00:00,CAL,California,D,Demand
+29,2024-12-30 17:00:00,CAL,California,DF,Day-ahead demand forecast
+30,2024-12-30 17:00:00,CAL,California,NG,Net generation
+31,2024-12-30 17:00:00,CAL,California,TI,Total interchange
+124,2024-12-29 17:00:00,CAL,California,D,Demand
+125,2024-12-29 17:00:00,CAL,California,DF,Day-ahead demand forecast
+126,2024-12-29 17:00:00,CAL,California,NG,Net generation
+127,2024-12-29 17:00:00,CAL,California,TI,Total interchange
+220,2024-12-28 17:00:00,CAL,California,D,Demand
+221,2024-12-28 17:00:00,CAL,California,DF,Day-ahead demand forecast
+222,2024-12-28 17:00:00,CAL,California,NG,Net generation
+223,2024-12-28 17:00:00,CAL,California,TI,Total interchange
+316,2024-12-27 17:00:00,CAL,California,D,Demand
+317,2024-12-27 17:00:00,CAL,California,DF,Day-ahead demand forecast
+318,2024-12-27 17:00:00,CAL,California,NG,Net generation
+319,2024-12-27 17:00:00,CAL,California,TI,Total interchange
+412,2024-12-26 17:00:00,CAL,California,D,Demand
+413,2024-12-26 17:00:00,CAL,California,DF,Day-ahead demand forecast
+414,2024-12-26 17:00:00,CAL,California,NG,Net generation
+415,2024-12-26 17:00:00,CAL,California,TI,Total interchange
+508,2024-12-25 17:00:00,CAL,California,D,Demand
+509,2024-12-25 17:00:00,CAL,California,DF,Day-ahead demand forecast
+510,2024-12-25 17:00:00,CAL,California,NG,Net generation
+511,2024-12-25 17:00:00,CAL,California,TI,Total interchange
+604,2024-12-24 17:00:00,CAL,California,D,Demand
+605,2024-12-24 17:00:00,CAL,California,DF,Day-ahead demand forecast
+606,2024-12-24 17:00:00,CAL,California,NG,Net generation
+607,2024-12-24 17:00:00,CAL,California,TI,Total interchange
+700,2024-12-23 17:00:00,CAL,California,D,Demand
+701,2024-12-23 17:00:00,CAL,California,DF,Day-ahead demand forecast
+702,2024-12-23 17:00:00,CAL,California,NG,Net generation
+703,2024-12-23 17:00:00,CAL,California,TI,Total interchange
+796,2024-12-22 17:00:00,CAL,California,D,Demand
+797,2024-12-22 17:00:00,CAL,California,DF,Day-ahead demand forecast
+798,2024-12-22 17:00:00,CAL,California,NG,Net generation
+799,2024-12-22 17:00:00,CAL,California,TI,Total interchange
+892,2024-12-21 17:00:00,CAL,California,D,Demand
+893,2024-12-21 17:00:00,CAL,California,DF,Day-ahead demand forecast
+894,2024-12-21 17:00:00,CAL,California,NG,Net generation
+895,2024-12-21 17:00:00,CAL,California,TI,Total interchange
+988,2024-12-20 17:00:00,CAL,California,D,Demand
+989,2024-12-20 17:00:00,CAL,California,DF,Day-ahead demand forecast
+990,2024-12-20 17:00:00,CAL,California,NG,Net generation
+991,2024-12-20 17:00:00,CAL,California,TI,Total interchange
+1084,2024-12-19 17:00:00,CAL,California,D,Demand
+1085,2024-12-19 17:00:00,CAL,California,DF,Day-ahead demand forecast
+1086,2024-12-19 17:00:00,CAL,California,NG,Net generation
+1087,2024-12-19 17:00:00,CAL,California,TI,Total interchange
+1180,2024-12-18 17:00:00,CAL,California,D,Demand
+1181,2024-12-18 17:00:00,CAL,California,DF,Day-ahead demand forecast
+1182,2024-12-18 17:00:00,CAL,California,NG,Net generation
+1183,2024-12-18 17:00:00,CAL,California,TI,Total interchange
+1276,2024-12-17 17:00:00,CAL,California,D,Demand
+1277,2024-12-17 17:00:00,CAL,California,DF,Day-ahead demand forecast
+1278,2024-12-17 17:00:00,CAL,California,NG,Net generation
+1279,2024-12-17 17:00:00,CAL,California,TI,Total interchange
+1372,2024-12-16 17:00:00,CAL,California,D,Demand
+1373,2024-12-16 17:00:00,CAL,California,DF,Day-ahead demand forecast
+1374,2024-12-16 17:00:00,CAL,California,NG,Net generation
+1375,2024-12-16 17:00:00,CAL,California,TI,Total interchange
+1468,2024-12-15 17:00:00,CAL,California,D,Demand
+1469,2024-12-15 17:00:00,CAL,California,DF,Day-ahead demand forecast
+1470,2024-12-15 17:00:00,CAL,California,NG,Net generation
+1471,2024-12-15 17:00:00,CAL,California,TI,Total interchange
+1564,2024-12-14 17:00:00,CAL,California,D,Demand
+1565,2024-12-14 17:00:00,CAL,California,DF,Day-ahead demand forecast
+1566,2024-12-14 17:00:00,CAL,California,NG,Net generation
+1567,2024-12-14 17:00:00,CAL,California,TI,Total interchange
+1660,2024-12-13 17:00:00,CAL,California,D,Demand
+1661,2024-12-13 17:00:00,CAL,California,DF,Day-ahead demand forecast
+1662,2024-12-13 17:00:00,CAL,California,NG,Net generation
+1663,2024-12-13 17:00:00,CAL,California,TI,Total interchange
+1756,2024-12-12 17:00:00,CAL,California,D,Demand
+1757,2024-12-12 17:00:00,CAL,California,DF,Day-ahead demand forecast
+1758,2024-12-12 17:00:00,CAL,California,NG,Net generation
+1759,2024-12-12 17:00:00,CAL,California,TI,Total interchange
+1852,2024-12-11 17:00:00,CAL,California,D,Demand
+1853,2024-12-11 17:00:00,CAL,California,DF,Day-ahead demand forecast
+1854,2024-12-11 17:00:00,CAL,California,NG,Net generation
+1855,2024-12-11 17:00:00,CAL,California,TI,Total interchange
+1948,2024-12-10 17:00:00,CAL,California,D,Demand
+1949,2024-12-10 17:00:00,CAL,California,DF,Day-ahead demand forecast
+1950,2024-12-10 17:00:00,CAL,California,NG,Net generation
+1951,2024-12-10 17:00:00,CAL,California,TI,Total interchange
+2044,2024-12-09 17:00:00,CAL,California,D,Demand
+2045,2024-12-09 17:00:00,CAL,California,DF,Day-ahead demand forecast
+2046,2024-12-09 17:00:00,CAL,California,NG,Net generation
+2047,2024-12-09 17:00:00,CAL,California,TI,Total interchange
+2140,2024-12-08 17:00:00,CAL,California,D,Demand
+2141,2024-12-08 17:00:00,CAL,California,DF,Day-ahead demand forecast
+2142,2024-12-08 17:00:00,CAL,California,NG,Net generation
+2143,2024-12-08 17:00:00,CAL,California,TI,Total interchange
+2236,2024-12-07 17:00:00,CAL,California,D,Demand
+2237,2024-12-07 17:00:00,CAL,California,DF,Day-ahead demand forecast
+2238,2024-12-07 17:00:00,CAL,California,NG,Net generation
+2239,2024-12-07 17:00:00,CAL,California,TI,Total interchange
+2332,2024-12-06 17:00:00,CAL,California,D,Demand
+2333,2024-12-06 17:00:00,CAL,California,DF,Day-ahead demand forecast
+2334,2024-12-06 17:00:00,CAL,California,NG,Net generation
+2335,2024-12-06 17:00:00,CAL,California,TI,Total interchange
+2428,2024-12-05 17:00:00,CAL,California,D,Demand
+2429,2024-12-05 17:00:00,CAL,California,DF,Day-ahead demand forecast
+2430,2024-12-05 17:00:00,CAL,California,NG,Net generation
+2431,2024-12-05 17:00:00,CAL,California,TI,Total interchange
+2524,2024-12-04 17:00:00,CAL,California,D,Demand
+2525,2024-12-04 17:00:00,CAL,California,DF,Day-ahead demand forecast
+2526,2024-12-04 17:00:00,CAL,California,NG,Net generation
+2527,2024-12-04 17:00:00,CAL,California,TI,Total interchange
+2620,2024-12-03 17:00:00,CAL,California,D,Demand
+2621,2024-12-03 17:00:00,CAL,California,DF,Day-ahead demand forecast
+2622,2024-12-03 17:00:00,CAL,California,NG,Net generation
+2623,2024-12-03 17:00:00,CAL,California,TI,Total interchange
+2716,2024-12-02 17:00:00,CAL,California,D,Demand
+2717,2024-12-02 17:00:00,CAL,California,DF,Day-ahead demand forecast
+2718,2024-12-02 17:00:00,CAL,California,NG,Net generation
+2719,2024-12-02 17:00:00,CAL,California,TI,Total interchange
+2812,2024-12-01 17:00:00,CAL,California,D,Demand
+2813,2024-12-01 17:00:00,CAL,California,DF,Day-ahead demand forecast
+2814,2024-12-01 17:00:00,CAL,California,NG,Net generation
+2815,2024-12-01 17:00:00,CAL,California,TI,Total interchange
+2908,2024-11-30 17:00:00,CAL,California,D,Demand
+2909,2024-11-30 17:00:00,CAL,California,DF,Day-ahead demand forecast
+2910,2024-11-30 17:00:00,CAL,California,NG,Net generation
+2911,2024-11-30 17:00:00,CAL,California,TI,Total interchange
+3004,2024-11-29 17:00:00,CAL,California,D,Demand
+3005,2024-11-29 17:00:00,CAL,California,DF,Day-ahead demand forecast
+3006,2024-11-29 17:00:00,CAL,California,NG,Net generation
+3007,2024-11-29 17:00:00,CAL,California,TI,Total interchange
+3100,2024-11-28 17:00:00,CAL,California,D,Demand
+3101,2024-11-28 17:00:00,CAL,California,DF,Day-ahead demand forecast
+3102,2024-11-28 17:00:00,CAL,California,NG,Net generation
+3103,2024-11-28 17:00:00,CAL,California,TI,Total interchange
+3196,2024-11-27 17:00:00,CAL,California,D,Demand
+3197,2024-11-27 17:00:00,CAL,California,DF,Day-ahead demand forecast
+3198,2024-11-27 17:00:00,CAL,California,NG,Net generation
+3199,2024-11-27 17:00:00,CAL,California,TI,Total interchange
+3292,2024-11-26 17:00:00,CAL,California,D,Demand
+3293,2024-11-26 17:00:00,CAL,California,DF,Day-ahead demand forecast
+3294,2024-11-26 17:00:00,CAL,California,NG,Net generation
+3295,2024-11-26 17:00:00,CAL,California,TI,Total interchange
+3388,2024-11-25 17:00:00,CAL,California,D,Demand
+3389,2024-11-25 17:00:00,CAL,California,DF,Day-ahead demand forecast
+3390,2024-11-25 17:00:00,CAL,California,NG,Net generation
+3391,2024-11-25 17:00:00,CAL,California,TI,Total interchange
+3484,2024-11-24 17:00:00,CAL,California,D,Demand
+3485,2024-11-24 17:00:00,CAL,California,DF,Day-ahead demand forecast
+3486,2024-11-24 17:00:00,CAL,California,NG,Net generation
+3487,2024-11-24 17:00:00,CAL,California,TI,Total interchange
+3580,2024-11-23 17:00:00,CAL,California,D,Demand
+3581,2024-11-23 17:00:00,CAL,California,DF,Day-ahead demand forecast
+3582,2024-11-23 17:00:00,CAL,California,NG,Net generation
+3583,2024-11-23 17:00:00,CAL,California,TI,Total interchange
+3676,2024-11-22 17:00:00,CAL,California,D,Demand
+3677,2024-11-22 17:00:00,CAL,California,DF,Day-ahead demand forecast
+3678,2024-11-22 17:00:00,CAL,California,NG,Net generation
+3679,2024-11-22 17:00:00,CAL,California,TI,Total interchange
+3772,2024-11-21 17:00:00,CAL,California,D,Demand
+3773,2024-11-21 17:00:00,CAL,California,DF,Day-ahead demand forecast
+3774,2024-11-21 17:00:00,CAL,California,NG,Net generation
+3775,2024-11-21 17:00:00,CAL,California,TI,Total interchange
+3868,2024-11-20 17:00:00,CAL,California,D,Demand
+3869,2024-11-20 17:00:00,CAL,California,DF,Day-ahead demand forecast
+3870,2024-11-20 17:00:00,CAL,California,NG,Net generation
+3871,2024-11-20 17:00:00,CAL,California,TI,Total interchange
+3964,2024-11-19 17:00:00,CAL,California,D,Demand
+3965,2024-11-19 17:00:00,CAL,California,DF,Day-ahead demand forecast
+3966,2024-11-19 17:00:00,CAL,California,NG,Net generation
+3967,2024-11-19 17:00:00,CAL,California,TI,Total interchange
+4060,2024-11-18 17:00:00,CAL,California,D,Demand
+4061,2024-11-18 17:00:00,CAL,California,DF,Day-ahead demand forecast
+4062,2024-11-18 17:00:00,CAL,California,NG,Net generation
+4063,2024-11-18 17:00:00,CAL,California,TI,Total interchange
+4156,2024-11-17 17:00:00,CAL,California,D,Demand
+4157,2024-11-17 17:00:00,CAL,California,DF,Day-ahead demand forecast
+4158,2024-11-17 17:00:00,CAL,California,NG,Net generation
+4159,2024-11-17 17:00:00,CAL,California,TI,Total interchange
+4252,2024-11-16 17:00:00,CAL,California,D,Demand
+4253,2024-11-16 17:00:00,CAL,California,DF,Day-ahead demand forecast
+4254,2024-11-16 17:00:00,CAL,California,NG,Net generation
+4255,2024-11-16 17:00:00,CAL,California,TI,Total interchange
+4348,2024-11-15 17:00:00,CAL,California,D,Demand
+4349,2024-11-15 17:00:00,CAL,California,DF,Day-ahead demand forecast
+4350,2024-11-15 17:00:00,CAL,California,NG,Net generation
+4351,2024-11-15 17:00:00,CAL,California,TI,Total interchange
+4444,2024-11-14 17:00:00,CAL,California,D,Demand
+4445,2024-11-14 17:00:00,CAL,California,DF,Day-ahead demand forecast
+4446,2024-11-14 17:00:00,CAL,California,NG,Net generation
+4447,2024-11-14 17:00:00,CAL,California,TI,Total interchange
+4540,2024-11-13 17:00:00,CAL,California,D,Demand
+4541,2024-11-13 17:00:00,CAL,California,DF,Day-ahead demand forecast
+4542,2024-11-13 17:00:00,CAL,California,NG,Net generation
+4543,2024-11-13 17:00:00,CAL,California,TI,Total interchange
+4636,2024-11-12 17:00:00,CAL,California,D,Demand
+4637,2024-11-12 17:00:00,CAL,California,DF,Day-ahead demand forecast
+4638,2024-11-12 17:00:00,CAL,California,NG,Net generation
+4639,2024-11-12 17:00:00,CAL,California,TI,Total interchange
+4732,2024-11-11 17:00:00,CAL,California,D,Demand
+4733,2024-11-11 17:00:00,CAL,California,DF,Day-ahead demand forecast
+4734,2024-11-11 17:00:00,CAL,California,NG,Net generation
+4735,2024-11-11 17:00:00,CAL,California,TI,Total interchange
+4828,2024-11-10 17:00:00,CAL,California,D,Demand
+4829,2024-11-10 17:00:00,CAL,California,DF,Day-ahead demand forecast
+4830,2024-11-10 17:00:00,CAL,California,NG,Net generation
+4831,2024-11-10 17:00:00,CAL,California,TI,Total interchange
+4924,2024-11-09 17:00:00,CAL,California,D,Demand
+4925,2024-11-09 17:00:00,CAL,California,DF,Day-ahead demand forecast
+4926,2024-11-09 17:00:00,CAL,California,NG,Net generation
+4927,2024-11-09 17:00:00,CAL,California,TI,Total interchange
+5020,2024-11-08 17:00:00,CAL,California,D,Demand
+5021,2024-11-08 17:00:00,CAL,California,DF,Day-ahead demand forecast
+5022,2024-11-08 17:00:00,CAL,California,NG,Net generation
+5023,2024-11-08 17:00:00,CAL,California,TI,Total interchange
+5116,2024-11-07 17:00:00,CAL,California,D,Demand
+5117,2024-11-07 17:00:00,CAL,California,DF,Day-ahead demand forecast
+5118,2024-11-07 17:00:00,CAL,California,NG,Net generation
+5119,2024-11-07 17:00:00,CAL,California,TI,Total interchange
+5212,2024-11-06 17:00:00,CAL,California,D,Demand
+5213,2024-11-06 17:00:00,CAL,California,DF,Day-ahead demand forecast
+5214,2024-11-06 17:00:00,CAL,California,NG,Net generation
+5215,2024-11-06 17:00:00,CAL,California,TI,Total interchange
+5308,2024-11-05 17:00:00,CAL,California,D,Demand
+5309,2024-11-05 17:00:00,CAL,California,DF,Day-ahead demand forecast
+5310,2024-11-05 17:00:00,CAL,California,NG,Net generation
+5311,2024-11-05 17:00:00,CAL,California,TI,Total interchange
+5404,2024-11-04 17:00:00,CAL,California,D,Demand
+5405,2024-11-04 17:00:00,CAL,California,DF,Day-ahead demand forecast
+5406,2024-11-04 17:00:00,CAL,California,NG,Net generation
+5407,2024-11-04 17:00:00,CAL,California,TI,Total interchange
+5500,2024-11-03 17:00:00,CAL,California,D,Demand
+5501,2024-11-03 17:00:00,CAL,California,DF,Day-ahead demand forecast
+5502,2024-11-03 17:00:00,CAL,California,NG,Net generation
+5503,2024-11-03 17:00:00,CAL,California,TI,Total interchange
+5596,2024-11-02 17:00:00,CAL,California,D,Demand
+5597,2024-11-02 17:00:00,CAL,California,DF,Day-ahead demand forecast
+5598,2024-11-02 17:00:00,CAL,California,NG,Net generation
+5599,2024-11-02 17:00:00,CAL,California,TI,Total interchange
+5692,2024-11-01 17:00:00,CAL,California,D,Demand
+5693,2024-11-01 17:00:00,CAL,California,DF,Day-ahead demand forecast
+5694,2024-11-01 17:00:00,CAL,California,NG,Net generation
+5695,2024-11-01 17:00:00,CAL,California,TI,Total interchange
+5788,2024-10-31 17:00:00,CAL,California,D,Demand
+5789,2024-10-31 17:00:00,CAL,California,DF,Day-ahead demand forecast
+5790,2024-10-31 17:00:00,CAL,California,NG,Net generation
+5791,2024-10-31 17:00:00,CAL,California,TI,Total interchange
+5884,2024-10-30 17:00:00,CAL,California,D,Demand
+5885,2024-10-30 17:00:00,CAL,California,DF,Day-ahead demand forecast
+5886,2024-10-30 17:00:00,CAL,California,NG,Net generation
+5887,2024-10-30 17:00:00,CAL,California,TI,Total interchange
+5980,2024-10-29 17:00:00,CAL,California,D,Demand
+5981,2024-10-29 17:00:00,CAL,California,DF,Day-ahead demand forecast
+5982,2024-10-29 17:00:00,CAL,California,NG,Net generation
+5983,2024-10-29 17:00:00,CAL,California,TI,Total interchange
+6076,2024-10-28 17:00:00,CAL,California,D,Demand
+6077,2024-10-28 17:00:00,CAL,California,DF,Day-ahead demand forecast
+6078,2024-10-28 17:00:00,CAL,California,NG,Net generation
+6079,2024-10-28 17:00:00,CAL,California,TI,Total interchange
+6172,2024-10-27 17:00:00,CAL,California,D,Demand
+6173,2024-10-27 17:00:00,CAL,California,DF,Day-ahead demand forecast
+6174,2024-10-27 17:00:00,CAL,California,NG,Net generation
+6175,2024-10-27 17:00:00,CAL,California,TI,Total interchange
+6268,2024-10-26 17:00:00,CAL,California,D,Demand
+6269,2024-10-26 17:00:00,CAL,California,DF,Day-ahead demand forecast
+6270,2024-10-26 17:00:00,CAL,California,NG,Net generation
+6271,2024-10-26 17:00:00,CAL,California,TI,Total interchange
+6364,2024-10-25 17:00:00,CAL,California,D,Demand
+6365,2024-10-25 17:00:00,CAL,California,DF,Day-ahead demand forecast
+6366,2024-10-25 17:00:00,CAL,California,NG,Net generation
+6367,2024-10-25 17:00:00,CAL,California,TI,Total interchange
+6460,2024-10-24 17:00:00,CAL,California,D,Demand
+6461,2024-10-24 17:00:00,CAL,California,DF,Day-ahead demand forecast
+6462,2024-10-24 17:00:00,CAL,California,NG,Net generation
+6463,2024-10-24 17:00:00,CAL,California,TI,Total interchange
+6556,2024-10-23 17:00:00,CAL,California,D,Demand
+6557,2024-10-23 17:00:00,CAL,California,DF,Day-ahead demand forecast
+6558,2024-10-23 17:00:00,CAL,California,NG,Net generation
+6559,2024-10-23 17:00:00,CAL,California,TI,Total interchange
+6652,2024-10-22 17:00:00,CAL,California,D,Demand
+6653,2024-10-22 17:00:00,CAL,California,DF,Day-ahead demand forecast
+6654,2024-10-22 17:00:00,CAL,California,NG,Net generation
+6655,2024-10-22 17:00:00,CAL,California,TI,Total interchange
+6748,2024-10-21 17:00:00,CAL,California,D,Demand
+6749,2024-10-21 17:00:00,CAL,California,DF,Day-ahead demand forecast
+6750,2024-10-21 17:00:00,CAL,California,NG,Net generation
+6751,2024-10-21 17:00:00,CAL,California,TI,Total interchange
+6844,2024-10-20 17:00:00,CAL,California,D,Demand
+6845,2024-10-20 17:00:00,CAL,California,DF,Day-ahead demand forecast
+6846,2024-10-20 17:00:00,CAL,California,NG,Net generation
+6847,2024-10-20 17:00:00,CAL,California,TI,Total interchange
+6940,2024-10-19 17:00:00,CAL,California,D,Demand
+6941,2024-10-19 17:00:00,CAL,California,DF,Day-ahead demand forecast
+6942,2024-10-19 17:00:00,CAL,California,NG,Net generation
+6943,2024-10-19 17:00:00,CAL,California,TI,Total interchange
+7036,2024-10-18 17:00:00,CAL,California,D,Demand
+7037,2024-10-18 17:00:00,CAL,California,DF,Day-ahead demand forecast
+7038,2024-10-18 17:00:00,CAL,California,NG,Net generation
+7039,2024-10-18 17:00:00,CAL,California,TI,Total interchange
+7132,2024-10-17 17:00:00,CAL,California,D,Demand
+7133,2024-10-17 17:00:00,CAL,California,DF,Day-ahead demand forecast
+7134,2024-10-17 17:00:00,CAL,California,NG,Net generation
+7135,2024-10-17 17:00:00,CAL,California,TI,Total interchange
+7228,2024-10-16 17:00:00,CAL,California,D,Demand
+7229,2024-10-16 17:00:00,CAL,California,DF,Day-ahead demand forecast
+7230,2024-10-16 17:00:00,CAL,California,NG,Net generation
+7231,2024-10-16 17:00:00,CAL,California,TI,Total interchange
+7324,2024-10-15 17:00:00,CAL,California,D,Demand
+7325,2024-10-15 17:00:00,CAL,California,DF,Day-ahead demand forecast
+7326,2024-10-15 17:00:00,CAL,California,NG,Net generation
+7327,2024-10-15 17:00:00,CAL,California,TI,Total interchange
+7420,2024-10-14 17:00:00,CAL,California,D,Demand
+7421,2024-10-14 17:00:00,CAL,California,DF,Day-ahead demand forecast
+7422,2024-10-14 17:00:00,CAL,California,NG,Net generation
+7423,2024-10-14 17:00:00,CAL,California,TI,Total interchange
+7516,2024-10-13 17:00:00,CAL,California,D,Demand
+7517,2024-10-13 17:00:00,CAL,California,DF,Day-ahead demand forecast
+7518,2024-10-13 17:00:00,CAL,California,NG,Net generation
+7519,2024-10-13 17:00:00,CAL,California,TI,Total interchange
+7612,2024-10-12 17:00:00,CAL,California,D,Demand
+7613,2024-10-12 17:00:00,CAL,California,DF,Day-ahead demand forecast
+7614,2024-10-12 17:00:00,CAL,California,NG,Net generation
+7615,2024-10-12 17:00:00,CAL,California,TI,Total interchange
+7708,2024-10-11 17:00:00,CAL,California,D,Demand
+7709,2024-10-11 17:00:00,CAL,California,DF,Day-ahead demand forecast
+7710,2024-10-11 17:00:00,CAL,California,NG,Net generation
+7711,2024-10-11 17:00:00,CAL,California,TI,Total interchange
+7804,2024-10-10 17:00:00,CAL,California,D,Demand
+7805,2024-10-10 17:00:00,CAL,California,DF,Day-ahead demand forecast
+7806,2024-10-10 17:00:00,CAL,California,NG,Net generation
+7807,2024-10-10 17:00:00,CAL,California,TI,Total interchange
+7900,2024-10-09 17:00:00,CAL,California,D,Demand
+7901,2024-10-09 17:00:00,CAL,California,DF,Day-ahead demand forecast
+7902,2024-10-09 17:00:00,CAL,California,NG,Net generation
+7903,2024-10-09 17:00:00,CAL,California,TI,Total interchange
+7996,2024-10-08 17:00:00,CAL,California,D,Demand
+7997,2024-10-08 17:00:00,CAL,California,DF,Day-ahead demand forecast
+7998,2024-10-08 17:00:00,CAL,California,NG,Net generation
+7999,2024-10-08 17:00:00,CAL,California,TI,Total interchange
+8092,2024-10-07 17:00:00,CAL,California,D,Demand
+8093,2024-10-07 17:00:00,CAL,California,DF,Day-ahead demand forecast
+8094,2024-10-07 17:00:00,CAL,California,NG,Net generation
+8095,2024-10-07 17:00:00,CAL,California,TI,Total interchange
+8188,2024-10-06 17:00:00,CAL,California,D,Demand
+8189,2024-10-06 17:00:00,CAL,California,DF,Day-ahead demand forecast
+8190,2024-10-06 17:00:00,CAL,California,NG,Net generation
+8191,2024-10-06 17:00:00,CAL,California,TI,Total interchange
+8284,2024-10-05 17:00:00,CAL,California,D,Demand
+8285,2024-10-05 17:00:00,CAL,California,DF,Day-ahead demand forecast
+8286,2024-10-05 17:00:00,CAL,California,NG,Net generation
+8287,2024-10-05 17:00:00,CAL,California,TI,Total interchange
+8380,2024-10-04 17:00:00,CAL,California,D,Demand
+8381,2024-10-04 17:00:00,CAL,California,DF,Day-ahead demand forecast
+8382,2024-10-04 17:00:00,CAL,California,NG,Net generation
+8383,2024-10-04 17:00:00,CAL,California,TI,Total interchange
+8476,2024-10-03 17:00:00,CAL,California,D,Demand
+8477,2024-10-03 17:00:00,CAL,California,DF,Day-ahead demand forecast
+8478,2024-10-03 17:00:00,CAL,California,NG,Net generation
+8479,2024-10-03 17:00:00,CAL,California,TI,Total interchange
+8572,2024-10-02 17:00:00,CAL,California,D,Demand
+8573,2024-10-02 17:00:00,CAL,California,DF,Day-ahead demand forecast
+8574,2024-10-02 17:00:00,CAL,California,NG,Net generation
+8575,2024-10-02 17:00:00,CAL,California,TI,Total interchange
+8668,2024-10-01 17:00:00,CAL,California,D,Demand
+8669,2024-10-01 17:00:00,CAL,California,DF,Day-ahead demand forecast
+8670,2024-10-01 17:00:00,CAL,California,NG,Net generation
+8671,2024-10-01 17:00:00,CAL,California,TI,Total interchange
+8764,2024-09-30 17:00:00,CAL,California,D,Demand
+8765,2024-09-30 17:00:00,CAL,California,DF,Day-ahead demand forecast
+8766,2024-09-30 17:00:00,CAL,California,NG,Net generation
+8767,2024-09-30 17:00:00,CAL,California,TI,Total interchange
+8860,2024-09-29 17:00:00,CAL,California,D,Demand
+8861,2024-09-29 17:00:00,CAL,California,DF,Day-ahead demand forecast
+8862,2024-09-29 17:00:00,CAL,California,NG,Net generation
+8863,2024-09-29 17:00:00,CAL,California,TI,Total interchange
+8956,2024-09-28 17:00:00,CAL,California,D,Demand
+8957,2024-09-28 17:00:00,CAL,California,DF,Day-ahead demand forecast
+8958,2024-09-28 17:00:00,CAL,California,NG,Net generation
+8959,2024-09-28 17:00:00,CAL,California,TI,Total interchange
+9052,2024-09-27 17:00:00,CAL,California,D,Demand
+9053,2024-09-27 17:00:00,CAL,California,DF,Day-ahead demand forecast
+9054,2024-09-27 17:00:00,CAL,California,NG,Net generation
+9055,2024-09-27 17:00:00,CAL,California,TI,Total interchange
+9148,2024-09-26 17:00:00,CAL,California,D,Demand
+9149,2024-09-26 17:00:00,CAL,California,DF,Day-ahead demand forecast
+9150,2024-09-26 17:00:00,CAL,California,NG,Net generation
+9151,2024-09-26 17:00:00,CAL,California,TI,Total interchange
+9244,2024-09-25 17:00:00,CAL,California,D,Demand
+9245,2024-09-25 17:00:00,CAL,California,DF,Day-ahead demand forecast
+9246,2024-09-25 17:00:00,CAL,California,NG,Net generation
+9247,2024-09-25 17:00:00,CAL,California,TI,Total interchange
+9340,2024-09-24 17:00:00,CAL,California,D,Demand
+9341,2024-09-24 17:00:00,CAL,California,DF,Day-ahead demand forecast
+9342,2024-09-24 17:00:00,CAL,California,NG,Net generation
+9343,2024-09-24 17:00:00,CAL,California,TI,Total interchange
+9436,2024-09-23 17:00:00,CAL,California,D,Demand
+9437,2024-09-23 17:00:00,CAL,California,DF,Day-ahead demand forecast
+9438,2024-09-23 17:00:00,CAL,California,NG,Net generation
+9439,2024-09-23 17:00:00,CAL,California,TI,Total interchange
+9532,2024-09-22 17:00:00,CAL,California,D,Demand
+9533,2024-09-22 17:00:00,CAL,California,DF,Day-ahead demand forecast
+9534,2024-09-22 17:00:00,CAL,California,NG,Net generation
+9535,2024-09-22 17:00:00,CAL,California,TI,Total interchange
+9628,2024-09-21 17:00:00,CAL,California,D,Demand
+9629,2024-09-21 17:00:00,CAL,California,DF,Day-ahead demand forecast
+9630,2024-09-21 17:00:00,CAL,California,NG,Net generation
+9631,2024-09-21 17:00:00,CAL,California,TI,Total interchange
+9724,2024-09-20 17:00:00,CAL,California,D,Demand
+9725,2024-09-20 17:00:00,CAL,California,DF,Day-ahead demand forecast
+9726,2024-09-20 17:00:00,CAL,California,NG,Net generation
+9727,2024-09-20 17:00:00,CAL,California,TI,Total interchange
+9820,2024-09-19 17:00:00,CAL,California,D,Demand
+9821,2024-09-19 17:00:00,CAL,California,DF,Day-ahead demand forecast
+9822,2024-09-19 17:00:00,CAL,California,NG,Net generation
+9823,2024-09-19 17:00:00,CAL,California,TI,Total interchange
+9916,2024-09-18 17:00:00,CAL,California,D,Demand
+9917,2024-09-18 17:00:00,CAL,California,DF,Day-ahead demand forecast
+9918,2024-09-18 17:00:00,CAL,California,NG,Net generation
+9919,2024-09-18 17:00:00,CAL,California,TI,Total interchange
+10012,2024-09-17 17:00:00,CAL,California,D,Demand
+10013,2024-09-17 17:00:00,CAL,California,DF,Day-ahead demand forecast
+10014,2024-09-17 17:00:00,CAL,California,NG,Net generation
+10015,2024-09-17 17:00:00,CAL,California,TI,Total interchange
+10108,2024-09-16 17:00:00,CAL,California,D,Demand
+10109,2024-09-16 17:00:00,CAL,California,DF,Day-ahead demand forecast
+10110,2024-09-16 17:00:00,CAL,California,NG,Net generation
+10111,2024-09-16 17:00:00,CAL,California,TI,Total interchange
+10204,2024-09-15 17:00:00,CAL,California,D,Demand
+10205,2024-09-15 17:00:00,CAL,California,DF,Day-ahead demand forecast
+10206,2024-09-15 17:00:00,CAL,California,NG,Net generation
+10207,2024-09-15 17:00:00,CAL,California,TI,Total interchange
+10300,2024-09-14 17:00:00,CAL,California,D,Demand
+10301,2024-09-14 17:00:00,CAL,California,DF,Day-ahead demand forecast
+10302,2024-09-14 17:00:00,CAL,California,NG,Net generation
+10303,2024-09-14 17:00:00,CAL,California,TI,Total interchange
+10396,2024-09-13 17:00:00,CAL,California,D,Demand
+10397,2024-09-13 17:00:00,CAL,California,DF,Day-ahead demand forecast
+10398,2024-09-13 17:00:00,CAL,California,NG,Net generation
+10399,2024-09-13 17:00:00,CAL,California,TI,Total interchange
+10492,2024-09-12 17:00:00,CAL,California,D,Demand
+10493,2024-09-12 17:00:00,CAL,California,DF,Day-ahead demand forecast
+10494,2024-09-12 17:00:00,CAL,California,NG,Net generation
+10495,2024-09-12 17:00:00,CAL,California,TI,Total interchange
+10588,2024-09-11 17:00:00,CAL,California,D,Demand
+10589,2024-09-11 17:00:00,CAL,California,DF,Day-ahead demand forecast
+10590,2024-09-11 17:00:00,CAL,California,NG,Net generation
+10591,2024-09-11 17:00:00,CAL,California,TI,Total interchange
+10684,2024-09-10 17:00:00,CAL,California,D,Demand
+10685,2024-09-10 17:00:00,CAL,California,DF,Day-ahead demand forecast
+10686,2024-09-10 17:00:00,CAL,California,NG,Net generation
+10687,2024-09-10 17:00:00,CAL,California,TI,Total interchange
+10780,2024-09-09 17:00:00,CAL,California,D,Demand
+10781,2024-09-09 17:00:00,CAL,California,DF,Day-ahead demand forecast
+10782,2024-09-09 17:00:00,CAL,California,NG,Net generation
+10783,2024-09-09 17:00:00,CAL,California,TI,Total interchange
+10876,2024-09-08 17:00:00,CAL,California,D,Demand
+10877,2024-09-08 17:00:00,CAL,California,DF,Day-ahead demand forecast
+10878,2024-09-08 17:00:00,CAL,California,NG,Net generation
+10879,2024-09-08 17:00:00,CAL,California,TI,Total interchange
+10972,2024-09-07 17:00:00,CAL,California,D,Demand
+10973,2024-09-07 17:00:00,CAL,California,DF,Day-ahead demand forecast
+10974,2024-09-07 17:00:00,CAL,California,NG,Net generation
+10975,2024-09-07 17:00:00,CAL,California,TI,Total interchange
+11068,2024-09-06 17:00:00,CAL,California,D,Demand
+11069,2024-09-06 17:00:00,CAL,California,DF,Day-ahead demand forecast
+11070,2024-09-06 17:00:00,CAL,California,NG,Net generation
+11071,2024-09-06 17:00:00,CAL,California,TI,Total interchange
+11164,2024-09-05 17:00:00,CAL,California,D,Demand
+11165,2024-09-05 17:00:00,CAL,California,DF,Day-ahead demand forecast
+11166,2024-09-05 17:00:00,CAL,California,NG,Net generation
+11167,2024-09-05 17:00:00,CAL,California,TI,Total interchange
+11260,2024-09-04 17:00:00,CAL,California,D,Demand
+11261,2024-09-04 17:00:00,CAL,California,DF,Day-ahead demand forecast
+11262,2024-09-04 17:00:00,CAL,California,NG,Net generation
+11263,2024-09-04 17:00:00,CAL,California,TI,Total interchange
+11356,2024-09-03 17:00:00,CAL,California,D,Demand
+11357,2024-09-03 17:00:00,CAL,California,DF,Day-ahead demand forecast
+11358,2024-09-03 17:00:00,CAL,California,NG,Net generation
+11359,2024-09-03 17:00:00,CAL,California,TI,Total interchange
+11452,2024-09-02 17:00:00,CAL,California,D,Demand
+11453,2024-09-02 17:00:00,CAL,California,DF,Day-ahead demand forecast
+11454,2024-09-02 17:00:00,CAL,California,NG,Net generation
+11455,2024-09-02 17:00:00,CAL,California,TI,Total interchange
+11548,2024-09-01 17:00:00,CAL,California,D,Demand
+11549,2024-09-01 17:00:00,CAL,California,DF,Day-ahead demand forecast
+11550,2024-09-01 17:00:00,CAL,California,NG,Net generation
+11551,2024-09-01 17:00:00,CAL,California,TI,Total interchange
+11644,2024-08-31 17:00:00,CAL,California,D,Demand
+11645,2024-08-31 17:00:00,CAL,California,DF,Day-ahead demand forecast
+11646,2024-08-31 17:00:00,CAL,California,NG,Net generation
+11647,2024-08-31 17:00:00,CAL,California,TI,Total interchange
+11740,2024-08-30 17:00:00,CAL,California,D,Demand
+11741,2024-08-30 17:00:00,CAL,California,DF,Day-ahead demand forecast
+11742,2024-08-30 17:00:00,CAL,California,NG,Net generation
+11743,2024-08-30 17:00:00,CAL,California,TI,Total interchange
+11836,2024-08-29 17:00:00,CAL,California,D,Demand
+11837,2024-08-29 17:00:00,CAL,California,DF,Day-ahead demand forecast
+11838,2024-08-29 17:00:00,CAL,California,NG,Net generation
+11839,2024-08-29 17:00:00,CAL,California,TI,Total interchange
+11932,2024-08-28 17:00:00,CAL,California,D,Demand
+11933,2024-08-28 17:00:00,CAL,California,DF,Day-ahead demand forecast
+11934,2024-08-28 17:00:00,CAL,California,NG,Net generation
+11935,2024-08-28 17:00:00,CAL,California,TI,Total interchange
+12028,2024-08-27 17:00:00,CAL,California,D,Demand
+12029,2024-08-27 17:00:00,CAL,California,DF,Day-ahead demand forecast
+12030,2024-08-27 17:00:00,CAL,California,NG,Net generation
+12031,2024-08-27 17:00:00,CAL,California,TI,Total interchange
+12124,2024-08-26 17:00:00,CAL,California,D,Demand
+12125,2024-08-26 17:00:00,CAL,California,DF,Day-ahead demand forecast
+12126,2024-08-26 17:00:00,CAL,California,NG,Net generation
+12127,2024-08-26 17:00:00,CAL,California,TI,Total interchange
+12220,2024-08-25 17:00:00,CAL,California,D,Demand
+12221,2024-08-25 17:00:00,CAL,California,DF,Day-ahead demand forecast
+12222,2024-08-25 17:00:00,CAL,California,NG,Net generation
+12223,2024-08-25 17:00:00,CAL,California,TI,Total interchange
+12316,2024-08-24 17:00:00,CAL,California,D,Demand
+12317,2024-08-24 17:00:00,CAL,California,DF,Day-ahead demand forecast
+12318,2024-08-24 17:00:00,CAL,California,NG,Net generation
+12319,2024-08-24 17:00:00,CAL,California,TI,Total interchange
+12412,2024-08-23 17:00:00,CAL,California,D,Demand
+12413,2024-08-23 17:00:00,CAL,California,DF,Day-ahead demand forecast
+12414,2024-08-23 17:00:00,CAL,California,NG,Net generation
+12415,2024-08-23 17:00:00,CAL,California,TI,Total interchange
+12508,2024-08-22 17:00:00,CAL,California,D,Demand
+12509,2024-08-22 17:00:00,CAL,California,DF,Day-ahead demand forecast
+12510,2024-08-22 17:00:00,CAL,California,NG,Net generation
+12511,2024-08-22 17:00:00,CAL,California,TI,Total interchange
+12604,2024-08-21 17:00:00,CAL,California,D,Demand
+12605,2024-08-21 17:00:00,CAL,California,DF,Day-ahead demand forecast
+12606,2024-08-21 17:00:00,CAL,California,NG,Net generation
+12607,2024-08-21 17:00:00,CAL,California,TI,Total interchange
+12700,2024-08-20 17:00:00,CAL,California,D,Demand
+12701,2024-08-20 17:00:00,CAL,California,DF,Day-ahead demand forecast
+12702,2024-08-20 17:00:00,CAL,California,NG,Net generation
+12703,2024-08-20 17:00:00,CAL,California,TI,Total interchange
+12796,2024-08-19 17:00:00,CAL,California,D,Demand
+12797,2024-08-19 17:00:00,CAL,California,DF,Day-ahead demand forecast
+12798,2024-08-19 17:00:00,CAL,California,NG,Net generation
+12799,2024-08-19 17:00:00,CAL,California,TI,Total interchange
+12892,2024-08-18 17:00:00,CAL,California,D,Demand
+12893,2024-08-18 17:00:00,CAL,California,DF,Day-ahead demand forecast
+12894,2024-08-18 17:00:00,CAL,California,NG,Net generation
+12895,2024-08-18 17:00:00,CAL,California,TI,Total interchange
+12988,2024-08-17 17:00:00,CAL,California,D,Demand
+12989,2024-08-17 17:00:00,CAL,California,DF,Day-ahead demand forecast
+12990,2024-08-17 17:00:00,CAL,California,NG,Net generation
+12991,2024-08-17 17:00:00,CAL,California,TI,Total interchange
+13084,2024-08-16 17:00:00,CAL,California,D,Demand
+13085,2024-08-16 17:00:00,CAL,California,DF,Day-ahead demand forecast
+13086,2024-08-16 17:00:00,CAL,California,NG,Net generation
+13087,2024-08-16 17:00:00,CAL,California,TI,Total interchange
+13180,2024-08-15 17:00:00,CAL,California,D,Demand
+13181,2024-08-15 17:00:00,CAL,California,DF,Day-ahead demand forecast
+13182,2024-08-15 17:00:00,CAL,California,NG,Net generation
+13183,2024-08-15 17:00:00,CAL,California,TI,Total interchange
+13276,2024-08-14 17:00:00,CAL,California,D,Demand
+13277,2024-08-14 17:00:00,CAL,California,DF,Day-ahead demand forecast
+13278,2024-08-14 17:00:00,CAL,California,NG,Net generation
+13279,2024-08-14 17:00:00,CAL,California,TI,Total interchange
+13372,2024-08-13 17:00:00,CAL,California,D,Demand
+13373,2024-08-13 17:00:00,CAL,California,DF,Day-ahead demand forecast
+13374,2024-08-13 17:00:00,CAL,California,NG,Net generation
+13375,2024-08-13 17:00:00,CAL,California,TI,Total interchange
+13468,2024-08-12 17:00:00,CAL,California,D,Demand
+13469,2024-08-12 17:00:00,CAL,California,DF,Day-ahead demand forecast
+13470,2024-08-12 17:00:00,CAL,California,NG,Net generation
+13471,2024-08-12 17:00:00,CAL,California,TI,Total interchange
+13564,2024-08-11 17:00:00,CAL,California,D,Demand
+13565,2024-08-11 17:00:00,CAL,California,DF,Day-ahead demand forecast
+13566,2024-08-11 17:00:00,CAL,California,NG,Net generation
+13567,2024-08-11 17:00:00,CAL,California,TI,Total interchange
+13660,2024-08-10 17:00:00,CAL,California,D,Demand
+13661,2024-08-10 17:00:00,CAL,California,DF,Day-ahead demand forecast
+13662,2024-08-10 17:00:00,CAL,California,NG,Net generation
+13663,2024-08-10 17:00:00,CAL,California,TI,Total interchange
+13756,2024-08-09 17:00:00,CAL,California,D,Demand
+13757,2024-08-09 17:00:00,CAL,California,DF,Day-ahead demand forecast
+13758,2024-08-09 17:00:00,CAL,California,NG,Net generation
+13759,2024-08-09 17:00:00,CAL,California,TI,Total interchange
+13852,2024-08-08 17:00:00,CAL,California,D,Demand
+13853,2024-08-08 17:00:00,CAL,California,DF,Day-ahead demand forecast
+13854,2024-08-08 17:00:00,CAL,California,NG,Net generation
+13855,2024-08-08 17:00:00,CAL,California,TI,Total interchange
+13948,2024-08-07 17:00:00,CAL,California,D,Demand
+13949,2024-08-07 17:00:00,CAL,California,DF,Day-ahead demand forecast
+13950,2024-08-07 17:00:00,CAL,California,NG,Net generation
+13951,2024-08-07 17:00:00,CAL,California,TI,Total interchange
+14044,2024-08-06 17:00:00,CAL,California,D,Demand
+14045,2024-08-06 17:00:00,CAL,California,DF,Day-ahead demand forecast
+14046,2024-08-06 17:00:00,CAL,California,NG,Net generation
+14047,2024-08-06 17:00:00,CAL,California,TI,Total interchange
+14140,2024-08-05 17:00:00,CAL,California,D,Demand
+14141,2024-08-05 17:00:00,CAL,California,DF,Day-ahead demand forecast
+14142,2024-08-05 17:00:00,CAL,California,NG,Net generation
+14143,2024-08-05 17:00:00,CAL,California,TI,Total interchange
+14236,2024-08-04 17:00:00,CAL,California,D,Demand
+14237,2024-08-04 17:00:00,CAL,California,DF,Day-ahead demand forecast
+14238,2024-08-04 17:00:00,CAL,California,NG,Net generation
+14239,2024-08-04 17:00:00,CAL,California,TI,Total interchange
+14332,2024-08-03 17:00:00,CAL,California,D,Demand
+14333,2024-08-03 17:00:00,CAL,California,DF,Day-ahead demand forecast
+14334,2024-08-03 17:00:00,CAL,California,NG,Net generation
+14335,2024-08-03 17:00:00,CAL,California,TI,Total interchange
+14428,2024-08-02 17:00:00,CAL,California,D,Demand
+14429,2024-08-02 17:00:00,CAL,California,DF,Day-ahead demand forecast
+14430,2024-08-02 17:00:00,CAL,California,NG,Net generation
+14431,2024-08-02 17:00:00,CAL,California,TI,Total interchange
+14524,2024-08-01 17:00:00,CAL,California,D,Demand
+14525,2024-08-01 17:00:00,CAL,California,DF,Day-ahead demand forecast
+14526,2024-08-01 17:00:00,CAL,California,NG,Net generation
+14527,2024-08-01 17:00:00,CAL,California,TI,Total interchange
+14620,2024-07-31 17:00:00,CAL,California,D,Demand
+14621,2024-07-31 17:00:00,CAL,California,DF,Day-ahead demand forecast
+14622,2024-07-31 17:00:00,CAL,California,NG,Net generation
+14623,2024-07-31 17:00:00,CAL,California,TI,Total interchange
+14716,2024-07-30 17:00:00,CAL,California,D,Demand
+14717,2024-07-30 17:00:00,CAL,California,DF,Day-ahead demand forecast
+14718,2024-07-30 17:00:00,CAL,California,NG,Net generation
+14719,2024-07-30 17:00:00,CAL,California,TI,Total interchange
+14812,2024-07-29 17:00:00,CAL,California,D,Demand
+14813,2024-07-29 17:00:00,CAL,California,DF,Day-ahead demand forecast
+14814,2024-07-29 17:00:00,CAL,California,NG,Net generation
+14815,2024-07-29 17:00:00,CAL,California,TI,Total interchange
+14908,2024-07-28 17:00:00,CAL,California,D,Demand
+14909,2024-07-28 17:00:00,CAL,California,DF,Day-ahead demand forecast
+14910,2024-07-28 17:00:00,CAL,California,NG,Net generation
+14911,2024-07-28 17:00:00,CAL,California,TI,Total interchange
+15004,2024-07-27 17:00:00,CAL,California,D,Demand
+15005,2024-07-27 17:00:00,CAL,California,DF,Day-ahead demand forecast
+15006,2024-07-27 17:00:00,CAL,California,NG,Net generation
+15007,2024-07-27 17:00:00,CAL,California,TI,Total interchange
+15100,2024-07-26 17:00:00,CAL,California,D,Demand
+15101,2024-07-26 17:00:00,CAL,California,DF,Day-ahead demand forecast
+15102,2024-07-26 17:00:00,CAL,California,NG,Net generation
+15103,2024-07-26 17:00:00,CAL,California,TI,Total interchange
+15196,2024-07-25 17:00:00,CAL,California,D,Demand
+15197,2024-07-25 17:00:00,CAL,California,DF,Day-ahead demand forecast
+15198,2024-07-25 17:00:00,CAL,California,NG,Net generation
+15199,2024-07-25 17:00:00,CAL,California,TI,Total interchange
+15292,2024-07-24 17:00:00,CAL,California,D,Demand
+15293,2024-07-24 17:00:00,CAL,California,DF,Day-ahead demand forecast
+15294,2024-07-24 17:00:00,CAL,California,NG,Net generation
+15295,2024-07-24 17:00:00,CAL,California,TI,Total interchange
+15388,2024-07-23 17:00:00,CAL,California,D,Demand
+15389,2024-07-23 17:00:00,CAL,California,DF,Day-ahead demand forecast
+15390,2024-07-23 17:00:00,CAL,California,NG,Net generation
+15391,2024-07-23 17:00:00,CAL,California,TI,Total interchange
+15484,2024-07-22 17:00:00,CAL,California,D,Demand
+15485,2024-07-22 17:00:00,CAL,California,DF,Day-ahead demand forecast
+15486,2024-07-22 17:00:00,CAL,California,NG,Net generation
+15487,2024-07-22 17:00:00,CAL,California,TI,Total interchange
+15580,2024-07-21 17:00:00,CAL,California,D,Demand
+15581,2024-07-21 17:00:00,CAL,California,DF,Day-ahead demand forecast
+15582,2024-07-21 17:00:00,CAL,California,NG,Net generation
+15583,2024-07-21 17:00:00,CAL,California,TI,Total interchange
+15676,2024-07-20 17:00:00,CAL,California,D,Demand
+15677,2024-07-20 17:00:00,CAL,California,DF,Day-ahead demand forecast
+15678,2024-07-20 17:00:00,CAL,California,NG,Net generation
+15679,2024-07-20 17:00:00,CAL,California,TI,Total interchange
+15772,2024-07-19 17:00:00,CAL,California,D,Demand
+15773,2024-07-19 17:00:00,CAL,California,DF,Day-ahead demand forecast
+15774,2024-07-19 17:00:00,CAL,California,NG,Net generation
+15775,2024-07-19 17:00:00,CAL,California,TI,Total interchange
+15868,2024-07-18 17:00:00,CAL,California,D,Demand
+15869,2024-07-18 17:00:00,CAL,California,DF,Day-ahead demand forecast
+15870,2024-07-18 17:00:00,CAL,California,NG,Net generation
+15871,2024-07-18 17:00:00,CAL,California,TI,Total interchange
+15964,2024-07-17 17:00:00,CAL,California,D,Demand
+15965,2024-07-17 17:00:00,CAL,California,DF,Day-ahead demand forecast
+15966,2024-07-17 17:00:00,CAL,California,NG,Net generation
+15967,2024-07-17 17:00:00,CAL,California,TI,Total interchange
+16060,2024-07-16 17:00:00,CAL,California,D,Demand
+16061,2024-07-16 17:00:00,CAL,California,DF,Day-ahead demand forecast
+16062,2024-07-16 17:00:00,CAL,California,NG,Net generation
+16063,2024-07-16 17:00:00,CAL,California,TI,Total interchange
+16156,2024-07-15 17:00:00,CAL,California,D,Demand
+16157,2024-07-15 17:00:00,CAL,California,DF,Day-ahead demand forecast
+16158,2024-07-15 17:00:00,CAL,California,NG,Net generation
+16159,2024-07-15 17:00:00,CAL,California,TI,Total interchange
+16252,2024-07-14 17:00:00,CAL,California,D,Demand
+16253,2024-07-14 17:00:00,CAL,California,DF,Day-ahead demand forecast
+16254,2024-07-14 17:00:00,CAL,California,NG,Net generation
+16255,2024-07-14 17:00:00,CAL,California,TI,Total interchange
+16348,2024-07-13 17:00:00,CAL,California,D,Demand
+16349,2024-07-13 17:00:00,CAL,California,DF,Day-ahead demand forecast
+16350,2024-07-13 17:00:00,CAL,California,NG,Net generation
+16351,2024-07-13 17:00:00,CAL,California,TI,Total interchange
+16444,2024-07-12 17:00:00,CAL,California,D,Demand
+16445,2024-07-12 17:00:00,CAL,California,DF,Day-ahead demand forecast
+16446,2024-07-12 17:00:00,CAL,California,NG,Net generation
+16447,2024-07-12 17:00:00,CAL,California,TI,Total interchange
+16540,2024-07-11 17:00:00,CAL,California,D,Demand
+16541,2024-07-11 17:00:00,CAL,California,DF,Day-ahead demand forecast
+16542,2024-07-11 17:00:00,CAL,California,NG,Net generation
+16543,2024-07-11 17:00:00,CAL,California,TI,Total interchange
+16636,2024-07-10 17:00:00,CAL,California,D,Demand
+16637,2024-07-10 17:00:00,CAL,California,DF,Day-ahead demand forecast
+16638,2024-07-10 17:00:00,CAL,California,NG,Net generation
+16639,2024-07-10 17:00:00,CAL,California,TI,Total interchange
+16732,2024-07-09 17:00:00,CAL,California,D,Demand
+16733,2024-07-09 17:00:00,CAL,California,DF,Day-ahead demand forecast
+16734,2024-07-09 17:00:00,CAL,California,NG,Net generation
+16735,2024-07-09 17:00:00,CAL,California,TI,Total interchange
+16828,2024-07-08 17:00:00,CAL,California,D,Demand
+16829,2024-07-08 17:00:00,CAL,California,DF,Day-ahead demand forecast
+16830,2024-07-08 17:00:00,CAL,California,NG,Net generation
+16831,2024-07-08 17:00:00,CAL,California,TI,Total interchange
+16924,2024-07-07 17:00:00,CAL,California,D,Demand
+16925,2024-07-07 17:00:00,CAL,California,DF,Day-ahead demand forecast
+16926,2024-07-07 17:00:00,CAL,California,NG,Net generation
+16927,2024-07-07 17:00:00,CAL,California,TI,Total interchange
+17020,2024-07-06 17:00:00,CAL,California,D,Demand
+17021,2024-07-06 17:00:00,CAL,California,DF,Day-ahead demand forecast
+17022,2024-07-06 17:00:00,CAL,California,NG,Net generation
+17023,2024-07-06 17:00:00,CAL,California,TI,Total interchange
+17116,2024-07-05 17:00:00,CAL,California,D,Demand
+17117,2024-07-05 17:00:00,CAL,California,DF,Day-ahead demand forecast
+17118,2024-07-05 17:00:00,CAL,California,NG,Net generation
+17119,2024-07-05 17:00:00,CAL,California,TI,Total interchange
+17212,2024-07-04 17:00:00,CAL,California,D,Demand
+17213,2024-07-04 17:00:00,CAL,California,DF,Day-ahead demand forecast
+17214,2024-07-04 17:00:00,CAL,California,NG,Net generation
+17215,2024-07-04 17:00:00,CAL,California,TI,Total interchange
+17308,2024-07-03 17:00:00,CAL,California,D,Demand
+17309,2024-07-03 17:00:00,CAL,California,DF,Day-ahead demand forecast
+17310,2024-07-03 17:00:00,CAL,California,NG,Net generation
+17311,2024-07-03 17:00:00,CAL,California,TI,Total interchange
+17404,2024-07-02 17:00:00,CAL,California,D,Demand
+17405,2024-07-02 17:00:00,CAL,California,DF,Day-ahead demand forecast
+17406,2024-07-02 17:00:00,CAL,California,NG,Net generation
+17407,2024-07-02 17:00:00,CAL,California,TI,Total interchange
+17500,2024-07-01 17:00:00,CAL,California,D,Demand
+17501,2024-07-01 17:00:00,CAL,California,DF,Day-ahead demand forecast
+17502,2024-07-01 17:00:00,CAL,California,NG,Net generation
+17503,2024-07-01 17:00:00,CAL,California,TI,Total interchange
+17596,2024-06-30 17:00:00,CAL,California,D,Demand
+17597,2024-06-30 17:00:00,CAL,California,DF,Day-ahead demand forecast
+17598,2024-06-30 17:00:00,CAL,California,NG,Net generation
+17599,2024-06-30 17:00:00,CAL,California,TI,Total interchange
+17692,2024-06-29 17:00:00,CAL,California,D,Demand
+17693,2024-06-29 17:00:00,CAL,California,DF,Day-ahead demand forecast
+17694,2024-06-29 17:00:00,CAL,California,NG,Net generation
+17695,2024-06-29 17:00:00,CAL,California,TI,Total interchange
+17788,2024-06-28 17:00:00,CAL,California,D,Demand
+17789,2024-06-28 17:00:00,CAL,California,DF,Day-ahead demand forecast
+17790,2024-06-28 17:00:00,CAL,California,NG,Net generation
+17791,2024-06-28 17:00:00,CAL,California,TI,Total interchange
+17884,2024-06-27 17:00:00,CAL,California,D,Demand
+17885,2024-06-27 17:00:00,CAL,California,DF,Day-ahead demand forecast
+17886,2024-06-27 17:00:00,CAL,California,NG,Net generation
+17887,2024-06-27 17:00:00,CAL,California,TI,Total interchange
+17980,2024-06-26 17:00:00,CAL,California,D,Demand
+17981,2024-06-26 17:00:00,CAL,California,DF,Day-ahead demand forecast
+17982,2024-06-26 17:00:00,CAL,California,NG,Net generation
+17983,2024-06-26 17:00:00,CAL,California,TI,Total interchange
+18076,2024-06-25 17:00:00,CAL,California,D,Demand
+18077,2024-06-25 17:00:00,CAL,California,DF,Day-ahead demand forecast
+18078,2024-06-25 17:00:00,CAL,California,NG,Net generation
+18079,2024-06-25 17:00:00,CAL,California,TI,Total interchange
+18172,2024-06-24 17:00:00,CAL,California,D,Demand
+18173,2024-06-24 17:00:00,CAL,California,DF,Day-ahead demand forecast
+18174,2024-06-24 17:00:00,CAL,California,NG,Net generation
+18175,2024-06-24 17:00:00,CAL,California,TI,Total interchange
+18268,2024-06-23 17:00:00,CAL,California,D,Demand
+18269,2024-06-23 17:00:00,CAL,California,DF,Day-ahead demand forecast
+18270,2024-06-23 17:00:00,CAL,California,NG,Net generation
+18271,2024-06-23 17:00:00,CAL,California,TI,Total interchange
+18364,2024-06-22 17:00:00,CAL,California,D,Demand
+18365,2024-06-22 17:00:00,CAL,California,DF,Day-ahead demand forecast
+18366,2024-06-22 17:00:00,CAL,California,NG,Net generation
+18367,2024-06-22 17:00:00,CAL,California,TI,Total interchange
+18460,2024-06-21 17:00:00,CAL,California,D,Demand
+18461,2024-06-21 17:00:00,CAL,California,DF,Day-ahead demand forecast
+18462,2024-06-21 17:00:00,CAL,California,NG,Net generation
+18463,2024-06-21 17:00:00,CAL,California,TI,Total interchange
+18556,2024-06-20 17:00:00,CAL,California,D,Demand
+18557,2024-06-20 17:00:00,CAL,California,DF,Day-ahead demand forecast
+18558,2024-06-20 17:00:00,CAL,California,NG,Net generation
+18559,2024-06-20 17:00:00,CAL,California,TI,Total interchange
+18652,2024-06-19 17:00:00,CAL,California,D,Demand
+18653,2024-06-19 17:00:00,CAL,California,DF,Day-ahead demand forecast
+18654,2024-06-19 17:00:00,CAL,California,NG,Net generation
+18655,2024-06-19 17:00:00,CAL,California,TI,Total interchange
+18748,2024-06-18 17:00:00,CAL,California,D,Demand
+18749,2024-06-18 17:00:00,CAL,California,DF,Day-ahead demand forecast
+18750,2024-06-18 17:00:00,CAL,California,NG,Net generation
+18751,2024-06-18 17:00:00,CAL,California,TI,Total interchange
+18844,2024-06-17 17:00:00,CAL,California,D,Demand
+18845,2024-06-17 17:00:00,CAL,California,DF,Day-ahead demand forecast
+18846,2024-06-17 17:00:00,CAL,California,NG,Net generation
+18847,2024-06-17 17:00:00,CAL,California,TI,Total interchange
+18940,2024-06-16 17:00:00,CAL,California,D,Demand
+18941,2024-06-16 17:00:00,CAL,California,DF,Day-ahead demand forecast
+18942,2024-06-16 17:00:00,CAL,California,NG,Net generation
+18943,2024-06-16 17:00:00,CAL,California,TI,Total interchange
+19036,2024-06-15 17:00:00,CAL,California,D,Demand
+19037,2024-06-15 17:00:00,CAL,California,DF,Day-ahead demand forecast
+19038,2024-06-15 17:00:00,CAL,California,NG,Net generation
+19039,2024-06-15 17:00:00,CAL,California,TI,Total interchange
+19132,2024-06-14 17:00:00,CAL,California,D,Demand
+19133,2024-06-14 17:00:00,CAL,California,DF,Day-ahead demand forecast
+19134,2024-06-14 17:00:00,CAL,California,NG,Net generation
+19135,2024-06-14 17:00:00,CAL,California,TI,Total interchange
+19228,2024-06-13 17:00:00,CAL,California,D,Demand
+19229,2024-06-13 17:00:00,CAL,California,DF,Day-ahead demand forecast
+19230,2024-06-13 17:00:00,CAL,California,NG,Net generation
+19231,2024-06-13 17:00:00,CAL,California,TI,Total interchange
+19324,2024-06-12 17:00:00,CAL,California,D,Demand
+19325,2024-06-12 17:00:00,CAL,California,DF,Day-ahead demand forecast
+19326,2024-06-12 17:00:00,CAL,California,NG,Net generation
+19327,2024-06-12 17:00:00,CAL,California,TI,Total interchange
+19420,2024-06-11 17:00:00,CAL,California,D,Demand
+19421,2024-06-11 17:00:00,CAL,California,DF,Day-ahead demand forecast
+19422,2024-06-11 17:00:00,CAL,California,NG,Net generation
+19423,2024-06-11 17:00:00,CAL,California,TI,Total interchange
+19516,2024-06-10 17:00:00,CAL,California,D,Demand
+19517,2024-06-10 17:00:00,CAL,California,DF,Day-ahead demand forecast
+19518,2024-06-10 17:00:00,CAL,California,NG,Net generation
+19519,2024-06-10 17:00:00,CAL,California,TI,Total interchange
+19612,2024-06-09 17:00:00,CAL,California,D,Demand
+19613,2024-06-09 17:00:00,CAL,California,DF,Day-ahead demand forecast
+19614,2024-06-09 17:00:00,CAL,California,NG,Net generation
+19615,2024-06-09 17:00:00,CAL,California,TI,Total interchange
+19708,2024-06-08 17:00:00,CAL,California,D,Demand
+19709,2024-06-08 17:00:00,CAL,California,DF,Day-ahead demand forecast
+19710,2024-06-08 17:00:00,CAL,California,NG,Net generation
+19711,2024-06-08 17:00:00,CAL,California,TI,Total interchange
+19804,2024-06-07 17:00:00,CAL,California,D,Demand
+19805,2024-06-07 17:00:00,CAL,California,DF,Day-ahead demand forecast
+19806,2024-06-07 17:00:00,CAL,California,NG,Net generation
+19807,2024-06-07 17:00:00,CAL,California,TI,Total interchange
+19900,2024-06-06 17:00:00,CAL,California,D,Demand
+19901,2024-06-06 17:00:00,CAL,California,DF,Day-ahead demand forecast
+19902,2024-06-06 17:00:00,CAL,California,NG,Net generation
+19903,2024-06-06 17:00:00,CAL,California,TI,Total interchange
+19996,2024-06-05 17:00:00,CAL,California,D,Demand
+19997,2024-06-05 17:00:00,CAL,California,DF,Day-ahead demand forecast
+19998,2024-06-05 17:00:00,CAL,California,NG,Net generation
+19999,2024-06-05 17:00:00,CAL,California,TI,Total interchange
+20092,2024-06-04 17:00:00,CAL,California,D,Demand
+20093,2024-06-04 17:00:00,CAL,California,DF,Day-ahead demand forecast
+20094,2024-06-04 17:00:00,CAL,California,NG,Net generation
+20095,2024-06-04 17:00:00,CAL,California,TI,Total interchange
+20188,2024-06-03 17:00:00,CAL,California,D,Demand
+20189,2024-06-03 17:00:00,CAL,California,DF,Day-ahead demand forecast
+20190,2024-06-03 17:00:00,CAL,California,NG,Net generation
+20191,2024-06-03 17:00:00,CAL,California,TI,Total interchange
+20284,2024-06-02 17:00:00,CAL,California,D,Demand
+20285,2024-06-02 17:00:00,CAL,California,DF,Day-ahead demand forecast
+20286,2024-06-02 17:00:00,CAL,California,NG,Net generation
+20287,2024-06-02 17:00:00,CAL,California,TI,Total interchange
+20380,2024-06-01 17:00:00,CAL,California,D,Demand
+20381,2024-06-01 17:00:00,CAL,California,DF,Day-ahead demand forecast
+20382,2024-06-01 17:00:00,CAL,California,NG,Net generation
+20383,2024-06-01 17:00:00,CAL,California,TI,Total interchange
+20476,2024-05-31 17:00:00,CAL,California,D,Demand
+20477,2024-05-31 17:00:00,CAL,California,DF,Day-ahead demand forecast
+20478,2024-05-31 17:00:00,CAL,California,NG,Net generation
+20479,2024-05-31 17:00:00,CAL,California,TI,Total interchange
+20572,2024-05-30 17:00:00,CAL,California,D,Demand
+20573,2024-05-30 17:00:00,CAL,California,DF,Day-ahead demand forecast
+20574,2024-05-30 17:00:00,CAL,California,NG,Net generation
+20575,2024-05-30 17:00:00,CAL,California,TI,Total interchange
+20668,2024-05-29 17:00:00,CAL,California,D,Demand
+20669,2024-05-29 17:00:00,CAL,California,DF,Day-ahead demand forecast
+20670,2024-05-29 17:00:00,CAL,California,NG,Net generation
+20671,2024-05-29 17:00:00,CAL,California,TI,Total interchange
+20764,2024-05-28 17:00:00,CAL,California,D,Demand
+20765,2024-05-28 17:00:00,CAL,California,DF,Day-ahead demand forecast
+20766,2024-05-28 17:00:00,CAL,California,NG,Net generation
+20767,2024-05-28 17:00:00,CAL,California,TI,Total interchange
+20860,2024-05-27 17:00:00,CAL,California,D,Demand
+20861,2024-05-27 17:00:00,CAL,California,DF,Day-ahead demand forecast
+20862,2024-05-27 17:00:00,CAL,California,NG,Net generation
+20863,2024-05-27 17:00:00,CAL,California,TI,Total interchange
+20956,2024-05-26 17:00:00,CAL,California,D,Demand
+20957,2024-05-26 17:00:00,CAL,California,DF,Day-ahead demand forecast
+20958,2024-05-26 17:00:00,CAL,California,NG,Net generation
+20959,2024-05-26 17:00:00,CAL,California,TI,Total interchange
+21052,2024-05-25 17:00:00,CAL,California,D,Demand
+21053,2024-05-25 17:00:00,CAL,California,DF,Day-ahead demand forecast
+21054,2024-05-25 17:00:00,CAL,California,NG,Net generation
+21055,2024-05-25 17:00:00,CAL,California,TI,Total interchange
+21148,2024-05-24 17:00:00,CAL,California,D,Demand
+21149,2024-05-24 17:00:00,CAL,California,DF,Day-ahead demand forecast
+21150,2024-05-24 17:00:00,CAL,California,NG,Net generation
+21151,2024-05-24 17:00:00,CAL,California,TI,Total interchange
+21244,2024-05-23 17:00:00,CAL,California,D,Demand
+21245,2024-05-23 17:00:00,CAL,California,DF,Day-ahead demand forecast
+21246,2024-05-23 17:00:00,CAL,California,NG,Net generation
+21247,2024-05-23 17:00:00,CAL,California,TI,Total interchange
+21340,2024-05-22 17:00:00,CAL,California,D,Demand
+21341,2024-05-22 17:00:00,CAL,California,DF,Day-ahead demand forecast
+21342,2024-05-22 17:00:00,CAL,California,NG,Net generation
+21343,2024-05-22 17:00:00,CAL,California,TI,Total interchange
+21436,2024-05-21 17:00:00,CAL,California,D,Demand
+21437,2024-05-21 17:00:00,CAL,California,DF,Day-ahead demand forecast
+21438,2024-05-21 17:00:00,CAL,California,NG,Net generation
+21439,2024-05-21 17:00:00,CAL,California,TI,Total interchange
+21532,2024-05-20 17:00:00,CAL,California,D,Demand
+21533,2024-05-20 17:00:00,CAL,California,DF,Day-ahead demand forecast
+21534,2024-05-20 17:00:00,CAL,California,NG,Net generation
+21535,2024-05-20 17:00:00,CAL,California,TI,Total interchange
+21628,2024-05-19 17:00:00,CAL,California,D,Demand
+21629,2024-05-19 17:00:00,CAL,California,DF,Day-ahead demand forecast
+21630,2024-05-19 17:00:00,CAL,California,NG,Net generation
+21631,2024-05-19 17:00:00,CAL,California,TI,Total interchange
+21724,2024-05-18 17:00:00,CAL,California,D,Demand
+21725,2024-05-18 17:00:00,CAL,California,DF,Day-ahead demand forecast
+21726,2024-05-18 17:00:00,CAL,California,NG,Net generation
+21727,2024-05-18 17:00:00,CAL,California,TI,Total interchange
+21820,2024-05-17 17:00:00,CAL,California,D,Demand
+21821,2024-05-17 17:00:00,CAL,California,DF,Day-ahead demand forecast
+21822,2024-05-17 17:00:00,CAL,California,NG,Net generation
+21823,2024-05-17 17:00:00,CAL,California,TI,Total interchange
+21916,2024-05-16 17:00:00,CAL,California,D,Demand
+21917,2024-05-16 17:00:00,CAL,California,DF,Day-ahead demand forecast
+21918,2024-05-16 17:00:00,CAL,California,NG,Net generation
+21919,2024-05-16 17:00:00,CAL,California,TI,Total interchange
+22012,2024-05-15 17:00:00,CAL,California,D,Demand
+22013,2024-05-15 17:00:00,CAL,California,DF,Day-ahead demand forecast
+22014,2024-05-15 17:00:00,CAL,California,NG,Net generation
+22015,2024-05-15 17:00:00,CAL,California,TI,Total interchange
+22108,2024-05-14 17:00:00,CAL,California,D,Demand
+22109,2024-05-14 17:00:00,CAL,California,DF,Day-ahead demand forecast
+22110,2024-05-14 17:00:00,CAL,California,NG,Net generation
+22111,2024-05-14 17:00:00,CAL,California,TI,Total interchange
+22204,2024-05-13 17:00:00,CAL,California,D,Demand
+22205,2024-05-13 17:00:00,CAL,California,DF,Day-ahead demand forecast
+22206,2024-05-13 17:00:00,CAL,California,NG,Net generation
+22207,2024-05-13 17:00:00,CAL,California,TI,Total interchange
+22300,2024-05-12 17:00:00,CAL,California,D,Demand
+22301,2024-05-12 17:00:00,CAL,California,DF,Day-ahead demand forecast
+22302,2024-05-12 17:00:00,CAL,California,NG,Net generation
+22303,2024-05-12 17:00:00,CAL,California,TI,Total interchange
+22396,2024-05-11 17:00:00,CAL,California,D,Demand
+22397,2024-05-11 17:00:00,CAL,California,DF,Day-ahead demand forecast
+22398,2024-05-11 17:00:00,CAL,California,NG,Net generation
+22399,2024-05-11 17:00:00,CAL,California,TI,Total interchange
+22492,2024-05-10 17:00:00,CAL,California,D,Demand
+22493,2024-05-10 17:00:00,CAL,California,DF,Day-ahead demand forecast
+22494,2024-05-10 17:00:00,CAL,California,NG,Net generation
+22495,2024-05-10 17:00:00,CAL,California,TI,Total interchange
+22588,2024-05-09 17:00:00,CAL,California,D,Demand
+22589,2024-05-09 17:00:00,CAL,California,DF,Day-ahead demand forecast
+22590,2024-05-09 17:00:00,CAL,California,NG,Net generation
+22591,2024-05-09 17:00:00,CAL,California,TI,Total interchange
+22684,2024-05-08 17:00:00,CAL,California,D,Demand
+22685,2024-05-08 17:00:00,CAL,California,DF,Day-ahead demand forecast
+22686,2024-05-08 17:00:00,CAL,California,NG,Net generation
+22687,2024-05-08 17:00:00,CAL,California,TI,Total interchange
+22780,2024-05-07 17:00:00,CAL,California,D,Demand
+22781,2024-05-07 17:00:00,CAL,California,DF,Day-ahead demand forecast
+22782,2024-05-07 17:00:00,CAL,California,NG,Net generation
+22783,2024-05-07 17:00:00,CAL,California,TI,Total interchange
+22876,2024-05-06 17:00:00,CAL,California,D,Demand
+22877,2024-05-06 17:00:00,CAL,California,DF,Day-ahead demand forecast
+22878,2024-05-06 17:00:00,CAL,California,NG,Net generation
+22879,2024-05-06 17:00:00,CAL,California,TI,Total interchange
+22972,2024-05-05 17:00:00,CAL,California,D,Demand
+22973,2024-05-05 17:00:00,CAL,California,DF,Day-ahead demand forecast
+22974,2024-05-05 17:00:00,CAL,California,NG,Net generation
+22975,2024-05-05 17:00:00,CAL,California,TI,Total interchange
+23068,2024-05-04 17:00:00,CAL,California,D,Demand
+23069,2024-05-04 17:00:00,CAL,California,DF,Day-ahead demand forecast
+23070,2024-05-04 17:00:00,CAL,California,NG,Net generation
+23071,2024-05-04 17:00:00,CAL,California,TI,Total interchange
+23164,2024-05-03 17:00:00,CAL,California,D,Demand
+23165,2024-05-03 17:00:00,CAL,California,DF,Day-ahead demand forecast
+23166,2024-05-03 17:00:00,CAL,California,NG,Net generation
+23167,2024-05-03 17:00:00,CAL,California,TI,Total interchange
+23260,2024-05-02 17:00:00,CAL,California,D,Demand
+23261,2024-05-02 17:00:00,CAL,California,DF,Day-ahead demand forecast
+23262,2024-05-02 17:00:00,CAL,California,NG,Net generation
+23263,2024-05-02 17:00:00,CAL,California,TI,Total interchange
+23356,2024-05-01 17:00:00,CAL,California,D,Demand
+23357,2024-05-01 17:00:00,CAL,California,DF,Day-ahead demand forecast
+23358,2024-05-01 17:00:00,CAL,California,NG,Net generation
+23359,2024-05-01 17:00:00,CAL,California,TI,Total interchange
+23452,2024-04-30 17:00:00,CAL,California,D,Demand
+23453,2024-04-30 17:00:00,CAL,California,DF,Day-ahead demand forecast
+23454,2024-04-30 17:00:00,CAL,California,NG,Net generation
+23455,2024-04-30 17:00:00,CAL,California,TI,Total interchange
+23548,2024-04-29 17:00:00,CAL,California,D,Demand
+23549,2024-04-29 17:00:00,CAL,California,DF,Day-ahead demand forecast
+23550,2024-04-29 17:00:00,CAL,California,NG,Net generation
+23551,2024-04-29 17:00:00,CAL,California,TI,Total interchange
+23644,2024-04-28 17:00:00,CAL,California,D,Demand
+23645,2024-04-28 17:00:00,CAL,California,DF,Day-ahead demand forecast
+23646,2024-04-28 17:00:00,CAL,California,NG,Net generation
+23647,2024-04-28 17:00:00,CAL,California,TI,Total interchange
+23740,2024-04-27 17:00:00,CAL,California,D,Demand
+23741,2024-04-27 17:00:00,CAL,California,DF,Day-ahead demand forecast
+23742,2024-04-27 17:00:00,CAL,California,NG,Net generation
+23743,2024-04-27 17:00:00,CAL,California,TI,Total interchange
+23836,2024-04-26 17:00:00,CAL,California,D,Demand
+23837,2024-04-26 17:00:00,CAL,California,DF,Day-ahead demand forecast
+23838,2024-04-26 17:00:00,CAL,California,NG,Net generation
+23839,2024-04-26 17:00:00,CAL,California,TI,Total interchange
+23932,2024-04-25 17:00:00,CAL,California,D,Demand
+23933,2024-04-25 17:00:00,CAL,California,DF,Day-ahead demand forecast
+23934,2024-04-25 17:00:00,CAL,California,NG,Net generation
+23935,2024-04-25 17:00:00,CAL,California,TI,Total interchange
+24028,2024-04-24 17:00:00,CAL,California,D,Demand
+24029,2024-04-24 17:00:00,CAL,California,DF,Day-ahead demand forecast
+24030,2024-04-24 17:00:00,CAL,California,NG,Net generation
+24031,2024-04-24 17:00:00,CAL,California,TI,Total interchange
+24124,2024-04-23 17:00:00,CAL,California,D,Demand
+24125,2024-04-23 17:00:00,CAL,California,DF,Day-ahead demand forecast
+24126,2024-04-23 17:00:00,CAL,California,NG,Net generation
+24127,2024-04-23 17:00:00,CAL,California,TI,Total interchange
+24220,2024-04-22 17:00:00,CAL,California,D,Demand
+24221,2024-04-22 17:00:00,CAL,California,DF,Day-ahead demand forecast
+24222,2024-04-22 17:00:00,CAL,California,NG,Net generation
+24223,2024-04-22 17:00:00,CAL,California,TI,Total interchange
+24316,2024-04-21 17:00:00,CAL,California,D,Demand
+24317,2024-04-21 17:00:00,CAL,California,DF,Day-ahead demand forecast
+24318,2024-04-21 17:00:00,CAL,California,NG,Net generation
+24319,2024-04-21 17:00:00,CAL,California,TI,Total interchange
+24412,2024-04-20 17:00:00,CAL,California,D,Demand
+24413,2024-04-20 17:00:00,CAL,California,DF,Day-ahead demand forecast
+24414,2024-04-20 17:00:00,CAL,California,NG,Net generation
+24415,2024-04-20 17:00:00,CAL,California,TI,Total interchange
+24508,2024-04-19 17:00:00,CAL,California,D,Demand
+24509,2024-04-19 17:00:00,CAL,California,DF,Day-ahead demand forecast
+24510,2024-04-19 17:00:00,CAL,California,NG,Net generation
+24511,2024-04-19 17:00:00,CAL,California,TI,Total interchange
+24604,2024-04-18 17:00:00,CAL,California,D,Demand
+24605,2024-04-18 17:00:00,CAL,California,DF,Day-ahead demand forecast
+24606,2024-04-18 17:00:00,CAL,California,NG,Net generation
+24607,2024-04-18 17:00:00,CAL,California,TI,Total interchange
+24700,2024-04-17 17:00:00,CAL,California,D,Demand
+24701,2024-04-17 17:00:00,CAL,California,DF,Day-ahead demand forecast
+24702,2024-04-17 17:00:00,CAL,California,NG,Net generation
+24703,2024-04-17 17:00:00,CAL,California,TI,Total interchange
+24796,2024-04-16 17:00:00,CAL,California,D,Demand
+24797,2024-04-16 17:00:00,CAL,California,DF,Day-ahead demand forecast
+24798,2024-04-16 17:00:00,CAL,California,NG,Net generation
+24799,2024-04-16 17:00:00,CAL,California,TI,Total interchange
+24892,2024-04-15 17:00:00,CAL,California,D,Demand
+24893,2024-04-15 17:00:00,CAL,California,DF,Day-ahead demand forecast
+24894,2024-04-15 17:00:00,CAL,California,NG,Net generation
+24895,2024-04-15 17:00:00,CAL,California,TI,Total interchange
+24988,2024-04-14 17:00:00,CAL,California,D,Demand
+24989,2024-04-14 17:00:00,CAL,California,DF,Day-ahead demand forecast
+24990,2024-04-14 17:00:00,CAL,California,NG,Net generation
+24991,2024-04-14 17:00:00,CAL,California,TI,Total interchange
+25084,2024-04-13 17:00:00,CAL,California,D,Demand
+25085,2024-04-13 17:00:00,CAL,California,DF,Day-ahead demand forecast
+25086,2024-04-13 17:00:00,CAL,California,NG,Net generation
+25087,2024-04-13 17:00:00,CAL,California,TI,Total interchange
+25180,2024-04-12 17:00:00,CAL,California,D,Demand
+25181,2024-04-12 17:00:00,CAL,California,DF,Day-ahead demand forecast
+25182,2024-04-12 17:00:00,CAL,California,NG,Net generation
+25183,2024-04-12 17:00:00,CAL,California,TI,Total interchange
+25276,2024-04-11 17:00:00,CAL,California,D,Demand
+25277,2024-04-11 17:00:00,CAL,California,DF,Day-ahead demand forecast
+25278,2024-04-11 17:00:00,CAL,California,NG,Net generation
+25279,2024-04-11 17:00:00,CAL,California,TI,Total interchange
+25372,2024-04-10 17:00:00,CAL,California,D,Demand
+25373,2024-04-10 17:00:00,CAL,California,DF,Day-ahead demand forecast
+25374,2024-04-10 17:00:00,CAL,California,NG,Net generation
+25375,2024-04-10 17:00:00,CAL,California,TI,Total interchange
+25468,2024-04-09 17:00:00,CAL,California,D,Demand
+25469,2024-04-09 17:00:00,CAL,California,DF,Day-ahead demand forecast
+25470,2024-04-09 17:00:00,CAL,California,NG,Net generation
+25471,2024-04-09 17:00:00,CAL,California,TI,Total interchange
+25564,2024-04-08 17:00:00,CAL,California,D,Demand
+25565,2024-04-08 17:00:00,CAL,California,DF,Day-ahead demand forecast
+25566,2024-04-08 17:00:00,CAL,California,NG,Net generation
+25567,2024-04-08 17:00:00,CAL,California,TI,Total interchange
+25660,2024-04-07 17:00:00,CAL,California,D,Demand
+25661,2024-04-07 17:00:00,CAL,California,DF,Day-ahead demand forecast
+25662,2024-04-07 17:00:00,CAL,California,NG,Net generation
+25663,2024-04-07 17:00:00,CAL,California,TI,Total interchange
+25756,2024-04-06 17:00:00,CAL,California,D,Demand
+25757,2024-04-06 17:00:00,CAL,California,DF,Day-ahead demand forecast
+25758,2024-04-06 17:00:00,CAL,California,NG,Net generation
+25759,2024-04-06 17:00:00,CAL,California,TI,Total interchange
+25852,2024-04-05 17:00:00,CAL,California,D,Demand
+25853,2024-04-05 17:00:00,CAL,California,DF,Day-ahead demand forecast
+25854,2024-04-05 17:00:00,CAL,California,NG,Net generation
+25855,2024-04-05 17:00:00,CAL,California,TI,Total interchange
+25948,2024-04-04 17:00:00,CAL,California,D,Demand
+25949,2024-04-04 17:00:00,CAL,California,DF,Day-ahead demand forecast
+25950,2024-04-04 17:00:00,CAL,California,NG,Net generation
+25951,2024-04-04 17:00:00,CAL,California,TI,Total interchange
+26044,2024-04-03 17:00:00,CAL,California,D,Demand
+26045,2024-04-03 17:00:00,CAL,California,DF,Day-ahead demand forecast
+26046,2024-04-03 17:00:00,CAL,California,NG,Net generation
+26047,2024-04-03 17:00:00,CAL,California,TI,Total interchange
+26140,2024-04-02 17:00:00,CAL,California,D,Demand
+26141,2024-04-02 17:00:00,CAL,California,DF,Day-ahead demand forecast
+26142,2024-04-02 17:00:00,CAL,California,NG,Net generation
+26143,2024-04-02 17:00:00,CAL,California,TI,Total interchange
+26236,2024-04-01 17:00:00,CAL,California,D,Demand
+26237,2024-04-01 17:00:00,CAL,California,DF,Day-ahead demand forecast
+26238,2024-04-01 17:00:00,CAL,California,NG,Net generation
+26239,2024-04-01 17:00:00,CAL,California,TI,Total interchange
+26332,2024-03-31 17:00:00,CAL,California,D,Demand
+26333,2024-03-31 17:00:00,CAL,California,DF,Day-ahead demand forecast
+26334,2024-03-31 17:00:00,CAL,California,NG,Net generation
+26335,2024-03-31 17:00:00,CAL,California,TI,Total interchange
+26428,2024-03-30 17:00:00,CAL,California,D,Demand
+26429,2024-03-30 17:00:00,CAL,California,DF,Day-ahead demand forecast
+26430,2024-03-30 17:00:00,CAL,California,NG,Net generation
+26431,2024-03-30 17:00:00,CAL,California,TI,Total interchange
+26524,2024-03-29 17:00:00,CAL,California,D,Demand
+26525,2024-03-29 17:00:00,CAL,California,DF,Day-ahead demand forecast
+26526,2024-03-29 17:00:00,CAL,California,NG,Net generation
+26527,2024-03-29 17:00:00,CAL,California,TI,Total interchange
+26620,2024-03-28 17:00:00,CAL,California,D,Demand
+26621,2024-03-28 17:00:00,CAL,California,DF,Day-ahead demand forecast
+26622,2024-03-28 17:00:00,CAL,California,NG,Net generation
+26623,2024-03-28 17:00:00,CAL,California,TI,Total interchange
+26716,2024-03-27 17:00:00,CAL,California,D,Demand
+26717,2024-03-27 17:00:00,CAL,California,DF,Day-ahead demand forecast
+26718,2024-03-27 17:00:00,CAL,California,NG,Net generation
+26719,2024-03-27 17:00:00,CAL,California,TI,Total interchange
+26812,2024-03-26 17:00:00,CAL,California,D,Demand
+26813,2024-03-26 17:00:00,CAL,California,DF,Day-ahead demand forecast
+26814,2024-03-26 17:00:00,CAL,California,NG,Net generation
+26815,2024-03-26 17:00:00,CAL,California,TI,Total interchange
+26908,2024-03-25 17:00:00,CAL,California,D,Demand
+26909,2024-03-25 17:00:00,CAL,California,DF,Day-ahead demand forecast
+26910,2024-03-25 17:00:00,CAL,California,NG,Net generation
+26911,2024-03-25 17:00:00,CAL,California,TI,Total interchange
+27004,2024-03-24 17:00:00,CAL,California,D,Demand
+27005,2024-03-24 17:00:00,CAL,California,DF,Day-ahead demand forecast
+27006,2024-03-24 17:00:00,CAL,California,NG,Net generation
+27007,2024-03-24 17:00:00,CAL,California,TI,Total interchange
+27100,2024-03-23 17:00:00,CAL,California,D,Demand
+27101,2024-03-23 17:00:00,CAL,California,DF,Day-ahead demand forecast
+27102,2024-03-23 17:00:00,CAL,California,NG,Net generation
+27103,2024-03-23 17:00:00,CAL,California,TI,Total interchange
+27196,2024-03-22 17:00:00,CAL,California,D,Demand
+27197,2024-03-22 17:00:00,CAL,California,DF,Day-ahead demand forecast
+27198,2024-03-22 17:00:00,CAL,California,NG,Net generation
+27199,2024-03-22 17:00:00,CAL,California,TI,Total interchange
+27292,2024-03-21 17:00:00,CAL,California,D,Demand
+27293,2024-03-21 17:00:00,CAL,California,DF,Day-ahead demand forecast
+27294,2024-03-21 17:00:00,CAL,California,NG,Net generation
+27295,2024-03-21 17:00:00,CAL,California,TI,Total interchange
+27388,2024-03-20 17:00:00,CAL,California,D,Demand
+27389,2024-03-20 17:00:00,CAL,California,DF,Day-ahead demand forecast
+27390,2024-03-20 17:00:00,CAL,California,NG,Net generation
+27391,2024-03-20 17:00:00,CAL,California,TI,Total interchange
+27484,2024-03-19 17:00:00,CAL,California,D,Demand
+27485,2024-03-19 17:00:00,CAL,California,DF,Day-ahead demand forecast
+27486,2024-03-19 17:00:00,CAL,California,NG,Net generation
+27487,2024-03-19 17:00:00,CAL,California,TI,Total interchange
+27580,2024-03-18 17:00:00,CAL,California,D,Demand
+27581,2024-03-18 17:00:00,CAL,California,DF,Day-ahead demand forecast
+27582,2024-03-18 17:00:00,CAL,California,NG,Net generation
+27583,2024-03-18 17:00:00,CAL,California,TI,Total interchange
+27676,2024-03-17 17:00:00,CAL,California,D,Demand
+27677,2024-03-17 17:00:00,CAL,California,DF,Day-ahead demand forecast
+27678,2024-03-17 17:00:00,CAL,California,NG,Net generation
+27679,2024-03-17 17:00:00,CAL,California,TI,Total interchange
+27772,2024-03-16 17:00:00,CAL,California,D,Demand
+27773,2024-03-16 17:00:00,CAL,California,DF,Day-ahead demand forecast
+27774,2024-03-16 17:00:00,CAL,California,NG,Net generation
+27775,2024-03-16 17:00:00,CAL,California,TI,Total interchange
+27868,2024-03-15 17:00:00,CAL,California,D,Demand
+27869,2024-03-15 17:00:00,CAL,California,DF,Day-ahead demand forecast
+27870,2024-03-15 17:00:00,CAL,California,NG,Net generation
+27871,2024-03-15 17:00:00,CAL,California,TI,Total interchange
+27964,2024-03-14 17:00:00,CAL,California,D,Demand
+27965,2024-03-14 17:00:00,CAL,California,DF,Day-ahead demand forecast
+27966,2024-03-14 17:00:00,CAL,California,NG,Net generation
+27967,2024-03-14 17:00:00,CAL,California,TI,Total interchange
+28060,2024-03-13 17:00:00,CAL,California,D,Demand
+28061,2024-03-13 17:00:00,CAL,California,DF,Day-ahead demand forecast
+28062,2024-03-13 17:00:00,CAL,California,NG,Net generation
+28063,2024-03-13 17:00:00,CAL,California,TI,Total interchange
+28156,2024-03-12 17:00:00,CAL,California,D,Demand
+28157,2024-03-12 17:00:00,CAL,California,DF,Day-ahead demand forecast
+28158,2024-03-12 17:00:00,CAL,California,NG,Net generation
+28159,2024-03-12 17:00:00,CAL,California,TI,Total interchange
+28252,2024-03-11 17:00:00,CAL,California,D,Demand
+28253,2024-03-11 17:00:00,CAL,California,DF,Day-ahead demand forecast
+28254,2024-03-11 17:00:00,CAL,California,NG,Net generation
+28255,2024-03-11 17:00:00,CAL,California,TI,Total interchange
+28348,2024-03-10 17:00:00,CAL,California,D,Demand
+28349,2024-03-10 17:00:00,CAL,California,DF,Day-ahead demand forecast
+28350,2024-03-10 17:00:00,CAL,California,NG,Net generation
+28351,2024-03-10 17:00:00,CAL,California,TI,Total interchange
+28444,2024-03-09 17:00:00,CAL,California,D,Demand
+28445,2024-03-09 17:00:00,CAL,California,DF,Day-ahead demand forecast
+28446,2024-03-09 17:00:00,CAL,California,NG,Net generation
+28447,2024-03-09 17:00:00,CAL,California,TI,Total interchange
+28540,2024-03-08 17:00:00,CAL,California,D,Demand
+28541,2024-03-08 17:00:00,CAL,California,DF,Day-ahead demand forecast
+28542,2024-03-08 17:00:00,CAL,California,NG,Net generation
+28543,2024-03-08 17:00:00,CAL,California,TI,Total interchange
+28636,2024-03-07 17:00:00,CAL,California,D,Demand
+28637,2024-03-07 17:00:00,CAL,California,DF,Day-ahead demand forecast
+28638,2024-03-07 17:00:00,CAL,California,NG,Net generation
+28639,2024-03-07 17:00:00,CAL,California,TI,Total interchange
+28732,2024-03-06 17:00:00,CAL,California,D,Demand
+28733,2024-03-06 17:00:00,CAL,California,DF,Day-ahead demand forecast
+28734,2024-03-06 17:00:00,CAL,California,NG,Net generation
+28735,2024-03-06 17:00:00,CAL,California,TI,Total interchange
+28828,2024-03-05 17:00:00,CAL,California,D,Demand
+28829,2024-03-05 17:00:00,CAL,California,DF,Day-ahead demand forecast
+28830,2024-03-05 17:00:00,CAL,California,NG,Net generation
+28831,2024-03-05 17:00:00,CAL,California,TI,Total interchange
+28924,2024-03-04 17:00:00,CAL,California,D,Demand
+28925,2024-03-04 17:00:00,CAL,California,DF,Day-ahead demand forecast
+28926,2024-03-04 17:00:00,CAL,California,NG,Net generation
+28927,2024-03-04 17:00:00,CAL,California,TI,Total interchange
+29020,2024-03-03 17:00:00,CAL,California,D,Demand
+29021,2024-03-03 17:00:00,CAL,California,DF,Day-ahead demand forecast
+29022,2024-03-03 17:00:00,CAL,California,NG,Net generation
+29023,2024-03-03 17:00:00,CAL,California,TI,Total interchange
+29116,2024-03-02 17:00:00,CAL,California,D,Demand
+29117,2024-03-02 17:00:00,CAL,California,DF,Day-ahead demand forecast
+29118,2024-03-02 17:00:00,CAL,California,NG,Net generation
+29119,2024-03-02 17:00:00,CAL,California,TI,Total interchange
+29212,2024-03-01 17:00:00,CAL,California,D,Demand
+29213,2024-03-01 17:00:00,CAL,California,DF,Day-ahead demand forecast
+29214,2024-03-01 17:00:00,CAL,California,NG,Net generation
+29215,2024-03-01 17:00:00,CAL,California,TI,Total interchange
+29308,2024-02-29 17:00:00,CAL,California,D,Demand
+29309,2024-02-29 17:00:00,CAL,California,DF,Day-ahead demand forecast
+29310,2024-02-29 17:00:00,CAL,California,NG,Net generation
+29311,2024-02-29 17:00:00,CAL,California,TI,Total interchange
+29404,2024-02-28 17:00:00,CAL,California,D,Demand
+29405,2024-02-28 17:00:00,CAL,California,DF,Day-ahead demand forecast
+29406,2024-02-28 17:00:00,CAL,California,NG,Net generation
+29407,2024-02-28 17:00:00,CAL,California,TI,Total interchange
+29500,2024-02-27 17:00:00,CAL,California,D,Demand
+29501,2024-02-27 17:00:00,CAL,California,DF,Day-ahead demand forecast
+29502,2024-02-27 17:00:00,CAL,California,NG,Net generation
+29503,2024-02-27 17:00:00,CAL,California,TI,Total interchange
+29596,2024-02-26 17:00:00,CAL,California,D,Demand
+29597,2024-02-26 17:00:00,CAL,California,DF,Day-ahead demand forecast
+29598,2024-02-26 17:00:00,CAL,California,NG,Net generation
+29599,2024-02-26 17:00:00,CAL,California,TI,Total interchange
+29692,2024-02-25 17:00:00,CAL,California,D,Demand
+29693,2024-02-25 17:00:00,CAL,California,DF,Day-ahead demand forecast
+29694,2024-02-25 17:00:00,CAL,California,NG,Net generation
+29695,2024-02-25 17:00:00,CAL,California,TI,Total interchange
+29788,2024-02-24 17:00:00,CAL,California,D,Demand
+29789,2024-02-24 17:00:00,CAL,California,DF,Day-ahead demand forecast
+29790,2024-02-24 17:00:00,CAL,California,NG,Net generation
+29791,2024-02-24 17:00:00,CAL,California,TI,Total interchange
+29884,2024-02-23 17:00:00,CAL,California,D,Demand
+29885,2024-02-23 17:00:00,CAL,California,DF,Day-ahead demand forecast
+29886,2024-02-23 17:00:00,CAL,California,NG,Net generation
+29887,2024-02-23 17:00:00,CAL,California,TI,Total interchange
+29980,2024-02-22 17:00:00,CAL,California,D,Demand
+29981,2024-02-22 17:00:00,CAL,California,DF,Day-ahead demand forecast
+29982,2024-02-22 17:00:00,CAL,California,NG,Net generation
+29983,2024-02-22 17:00:00,CAL,California,TI,Total interchange
+30076,2024-02-21 17:00:00,CAL,California,D,Demand
+30077,2024-02-21 17:00:00,CAL,California,DF,Day-ahead demand forecast
+30078,2024-02-21 17:00:00,CAL,California,NG,Net generation
+30079,2024-02-21 17:00:00,CAL,California,TI,Total interchange
+30172,2024-02-20 17:00:00,CAL,California,D,Demand
+30173,2024-02-20 17:00:00,CAL,California,DF,Day-ahead demand forecast
+30174,2024-02-20 17:00:00,CAL,California,NG,Net generation
+30175,2024-02-20 17:00:00,CAL,California,TI,Total interchange
+30268,2024-02-19 17:00:00,CAL,California,D,Demand
+30269,2024-02-19 17:00:00,CAL,California,DF,Day-ahead demand forecast
+30270,2024-02-19 17:00:00,CAL,California,NG,Net generation
+30271,2024-02-19 17:00:00,CAL,California,TI,Total interchange
+30364,2024-02-18 17:00:00,CAL,California,D,Demand
+30365,2024-02-18 17:00:00,CAL,California,DF,Day-ahead demand forecast
+30366,2024-02-18 17:00:00,CAL,California,NG,Net generation
+30367,2024-02-18 17:00:00,CAL,California,TI,Total interchange
+30460,2024-02-17 17:00:00,CAL,California,D,Demand
+30461,2024-02-17 17:00:00,CAL,California,DF,Day-ahead demand forecast
+30462,2024-02-17 17:00:00,CAL,California,NG,Net generation
+30463,2024-02-17 17:00:00,CAL,California,TI,Total interchange
+30556,2024-02-16 17:00:00,CAL,California,D,Demand
+30557,2024-02-16 17:00:00,CAL,California,DF,Day-ahead demand forecast
+30558,2024-02-16 17:00:00,CAL,California,NG,Net generation
+30559,2024-02-16 17:00:00,CAL,California,TI,Total interchange
+30652,2024-02-15 17:00:00,CAL,California,D,Demand
+30653,2024-02-15 17:00:00,CAL,California,DF,Day-ahead demand forecast
+30654,2024-02-15 17:00:00,CAL,California,NG,Net generation
+30655,2024-02-15 17:00:00,CAL,California,TI,Total interchange
+30748,2024-02-14 17:00:00,CAL,California,D,Demand
+30749,2024-02-14 17:00:00,CAL,California,DF,Day-ahead demand forecast
+30750,2024-02-14 17:00:00,CAL,California,NG,Net generation
+30751,2024-02-14 17:00:00,CAL,California,TI,Total interchange
+30844,2024-02-13 17:00:00,CAL,California,D,Demand
+30845,2024-02-13 17:00:00,CAL,California,DF,Day-ahead demand forecast
+30846,2024-02-13 17:00:00,CAL,California,NG,Net generation
+30847,2024-02-13 17:00:00,CAL,California,TI,Total interchange
+30940,2024-02-12 17:00:00,CAL,California,D,Demand
+30941,2024-02-12 17:00:00,CAL,California,DF,Day-ahead demand forecast
+30942,2024-02-12 17:00:00,CAL,California,NG,Net generation
+30943,2024-02-12 17:00:00,CAL,California,TI,Total interchange
+31036,2024-02-11 17:00:00,CAL,California,D,Demand
+31037,2024-02-11 17:00:00,CAL,California,DF,Day-ahead demand forecast
+31038,2024-02-11 17:00:00,CAL,California,NG,Net generation
+31039,2024-02-11 17:00:00,CAL,California,TI,Total interchange
+31132,2024-02-10 17:00:00,CAL,California,D,Demand
+31133,2024-02-10 17:00:00,CAL,California,DF,Day-ahead demand forecast
+31134,2024-02-10 17:00:00,CAL,California,NG,Net generation
+31135,2024-02-10 17:00:00,CAL,California,TI,Total interchange
+31228,2024-02-09 17:00:00,CAL,California,D,Demand
+31229,2024-02-09 17:00:00,CAL,California,DF,Day-ahead demand forecast
+31230,2024-02-09 17:00:00,CAL,California,NG,Net generation
+31231,2024-02-09 17:00:00,CAL,California,TI,Total interchange
+31324,2024-02-08 17:00:00,CAL,California,D,Demand
+31325,2024-02-08 17:00:00,CAL,California,DF,Day-ahead demand forecast
+31326,2024-02-08 17:00:00,CAL,California,NG,Net generation
+31327,2024-02-08 17:00:00,CAL,California,TI,Total interchange
+31420,2024-02-07 17:00:00,CAL,California,D,Demand
+31421,2024-02-07 17:00:00,CAL,California,DF,Day-ahead demand forecast
+31422,2024-02-07 17:00:00,CAL,California,NG,Net generation
+31423,2024-02-07 17:00:00,CAL,California,TI,Total interchange
+31516,2024-02-06 17:00:00,CAL,California,D,Demand
+31517,2024-02-06 17:00:00,CAL,California,DF,Day-ahead demand forecast
+31518,2024-02-06 17:00:00,CAL,California,NG,Net generation
+31519,2024-02-06 17:00:00,CAL,California,TI,Total interchange
+31612,2024-02-05 17:00:00,CAL,California,D,Demand
+31613,2024-02-05 17:00:00,CAL,California,DF,Day-ahead demand forecast
+31614,2024-02-05 17:00:00,CAL,California,NG,Net generation
+31615,2024-02-05 17:00:00,CAL,California,TI,Total interchange
+31708,2024-02-04 17:00:00,CAL,California,D,Demand
+31709,2024-02-04 17:00:00,CAL,California,DF,Day-ahead demand forecast
+31710,2024-02-04 17:00:00,CAL,California,NG,Net generation
+31711,2024-02-04 17:00:00,CAL,California,TI,Total interchange
+31804,2024-02-03 17:00:00,CAL,California,D,Demand
+31805,2024-02-03 17:00:00,CAL,California,DF,Day-ahead demand forecast
+31806,2024-02-03 17:00:00,CAL,California,NG,Net generation
+31807,2024-02-03 17:00:00,CAL,California,TI,Total interchange
+31900,2024-02-02 17:00:00,CAL,California,D,Demand
+31901,2024-02-02 17:00:00,CAL,California,DF,Day-ahead demand forecast
+31902,2024-02-02 17:00:00,CAL,California,NG,Net generation
+31903,2024-02-02 17:00:00,CAL,California,TI,Total interchange
+31996,2024-02-01 17:00:00,CAL,California,D,Demand
+31997,2024-02-01 17:00:00,CAL,California,DF,Day-ahead demand forecast
+31998,2024-02-01 17:00:00,CAL,California,NG,Net generation
+31999,2024-02-01 17:00:00,CAL,California,TI,Total interchange
+32092,2024-01-31 17:00:00,CAL,California,D,Demand
+32093,2024-01-31 17:00:00,CAL,California,DF,Day-ahead demand forecast
+32094,2024-01-31 17:00:00,CAL,California,NG,Net generation
+32095,2024-01-31 17:00:00,CAL,California,TI,Total interchange
+32188,2024-01-30 17:00:00,CAL,California,D,Demand
+32189,2024-01-30 17:00:00,CAL,California,DF,Day-ahead demand forecast
+32190,2024-01-30 17:00:00,CAL,California,NG,Net generation
+32191,2024-01-30 17:00:00,CAL,California,TI,Total interchange
+32284,2024-01-29 17:00:00,CAL,California,D,Demand
+32285,2024-01-29 17:00:00,CAL,California,DF,Day-ahead demand forecast
+32286,2024-01-29 17:00:00,CAL,California,NG,Net generation
+32287,2024-01-29 17:00:00,CAL,California,TI,Total interchange
+32380,2024-01-28 17:00:00,CAL,California,D,Demand
+32381,2024-01-28 17:00:00,CAL,California,DF,Day-ahead demand forecast
+32382,2024-01-28 17:00:00,CAL,California,NG,Net generation
+32383,2024-01-28 17:00:00,CAL,California,TI,Total interchange
+32476,2024-01-27 17:00:00,CAL,California,D,Demand
+32477,2024-01-27 17:00:00,CAL,California,DF,Day-ahead demand forecast
+32478,2024-01-27 17:00:00,CAL,California,NG,Net generation
+32479,2024-01-27 17:00:00,CAL,California,TI,Total interchange
+32572,2024-01-26 17:00:00,CAL,California,D,Demand
+32573,2024-01-26 17:00:00,CAL,California,DF,Day-ahead demand forecast
+32574,2024-01-26 17:00:00,CAL,California,NG,Net generation
+32575,2024-01-26 17:00:00,CAL,California,TI,Total interchange
+32668,2024-01-25 17:00:00,CAL,California,D,Demand
+32669,2024-01-25 17:00:00,CAL,California,DF,Day-ahead demand forecast
+32670,2024-01-25 17:00:00,CAL,California,NG,Net generation
+32671,2024-01-25 17:00:00,CAL,California,TI,Total interchange
+32764,2024-01-24 17:00:00,CAL,California,D,Demand
+32765,2024-01-24 17:00:00,CAL,California,DF,Day-ahead demand forecast
+32766,2024-01-24 17:00:00,CAL,California,NG,Net generation
+32767,2024-01-24 17:00:00,CAL,California,TI,Total interchange
+32860,2024-01-23 17:00:00,CAL,California,D,Demand
+32861,2024-01-23 17:00:00,CAL,California,DF,Day-ahead demand forecast
+32862,2024-01-23 17:00:00,CAL,California,NG,Net generation
+32863,2024-01-23 17:00:00,CAL,California,TI,Total interchange
+32956,2024-01-22 17:00:00,CAL,California,D,Demand
+32957,2024-01-22 17:00:00,CAL,California,DF,Day-ahead demand forecast
+32958,2024-01-22 17:00:00,CAL,California,NG,Net generation
+32959,2024-01-22 17:00:00,CAL,California,TI,Total interchange
+33052,2024-01-21 17:00:00,CAL,California,D,Demand
+33053,2024-01-21 17:00:00,CAL,California,DF,Day-ahead demand forecast
+33054,2024-01-21 17:00:00,CAL,California,NG,Net generation
+33055,2024-01-21 17:00:00,CAL,California,TI,Total interchange
+33148,2024-01-20 17:00:00,CAL,California,D,Demand
+33149,2024-01-20 17:00:00,CAL,California,DF,Day-ahead demand forecast
+33150,2024-01-20 17:00:00,CAL,California,NG,Net generation
+33151,2024-01-20 17:00:00,CAL,California,TI,Total interchange
+33244,2024-01-19 17:00:00,CAL,California,D,Demand
+33245,2024-01-19 17:00:00,CAL,California,DF,Day-ahead demand forecast
+33246,2024-01-19 17:00:00,CAL,California,NG,Net generation
+33247,2024-01-19 17:00:00,CAL,California,TI,Total interchange
+33340,2024-01-18 17:00:00,CAL,California,D,Demand
+33341,2024-01-18 17:00:00,CAL,California,DF,Day-ahead demand forecast
+33342,2024-01-18 17:00:00,CAL,California,NG,Net generation
+33343,2024-01-18 17:00:00,CAL,California,TI,Total interchange
+33436,2024-01-17 17:00:00,CAL,California,D,Demand
+33437,2024-01-17 17:00:00,CAL,California,DF,Day-ahead demand forecast
+33438,2024-01-17 17:00:00,CAL,California,NG,Net generation
+33439,2024-01-17 17:00:00,CAL,California,TI,Total interchange
+33532,2024-01-16 17:00:00,CAL,California,D,Demand
+33533,2024-01-16 17:00:00,CAL,California,DF,Day-ahead demand forecast
+33534,2024-01-16 17:00:00,CAL,California,NG,Net generation
+33535,2024-01-16 17:00:00,CAL,California,TI,Total interchange
+33628,2024-01-15 17:00:00,CAL,California,D,Demand
+33629,2024-01-15 17:00:00,CAL,California,DF,Day-ahead demand forecast
+33630,2024-01-15 17:00:00,CAL,California,NG,Net generation
+33631,2024-01-15 17:00:00,CAL,California,TI,Total interchange
+33724,2024-01-14 17:00:00,CAL,California,D,Demand
+33725,2024-01-14 17:00:00,CAL,California,DF,Day-ahead demand forecast
+33726,2024-01-14 17:00:00,CAL,California,NG,Net generation
+33727,2024-01-14 17:00:00,CAL,California,TI,Total interchange
+33820,2024-01-13 17:00:00,CAL,California,D,Demand
+33821,2024-01-13 17:00:00,CAL,California,DF,Day-ahead demand forecast
+33822,2024-01-13 17:00:00,CAL,California,NG,Net generation
+33823,2024-01-13 17:00:00,CAL,California,TI,Total interchange
+33916,2024-01-12 17:00:00,CAL,California,D,Demand
+33917,2024-01-12 17:00:00,CAL,California,DF,Day-ahead demand forecast
+33918,2024-01-12 17:00:00,CAL,California,NG,Net generation
+33919,2024-01-12 17:00:00,CAL,California,TI,Total interchange
+34012,2024-01-11 17:00:00,CAL,California,D,Demand
+34013,2024-01-11 17:00:00,CAL,California,DF,Day-ahead demand forecast
+34014,2024-01-11 17:00:00,CAL,California,NG,Net generation
+34015,2024-01-11 17:00:00,CAL,California,TI,Total interchange
+34108,2024-01-10 17:00:00,CAL,California,D,Demand
+34109,2024-01-10 17:00:00,CAL,California,DF,Day-ahead demand forecast
+34110,2024-01-10 17:00:00,CAL,California,NG,Net generation
+34111,2024-01-10 17:00:00,CAL,California,TI,Total interchange
+34204,2024-01-09 17:00:00,CAL,California,D,Demand
+34205,2024-01-09 17:00:00,CAL,California,DF,Day-ahead demand forecast
+34206,2024-01-09 17:00:00,CAL,California,NG,Net generation
+34207,2024-01-09 17:00:00,CAL,California,TI,Total interchange
+34300,2024-01-08 17:00:00,CAL,California,D,Demand
+34301,2024-01-08 17:00:00,CAL,California,DF,Day-ahead demand forecast
+34302,2024-01-08 17:00:00,CAL,California,NG,Net generation
+34303,2024-01-08 17:00:00,CAL,California,TI,Total interchange
+34396,2024-01-07 17:00:00,CAL,California,D,Demand
+34397,2024-01-07 17:00:00,CAL,California,DF,Day-ahead demand forecast
+34398,2024-01-07 17:00:00,CAL,California,NG,Net generation
+34399,2024-01-07 17:00:00,CAL,California,TI,Total interchange
+34492,2024-01-06 17:00:00,CAL,California,D,Demand
+34493,2024-01-06 17:00:00,CAL,California,DF,Day-ahead demand forecast
+34494,2024-01-06 17:00:00,CAL,California,NG,Net generation
+34495,2024-01-06 17:00:00,CAL,California,TI,Total interchange
+34588,2024-01-05 17:00:00,CAL,California,D,Demand
+34589,2024-01-05 17:00:00,CAL,California,DF,Day-ahead demand forecast
+34590,2024-01-05 17:00:00,CAL,California,NG,Net generation
+34591,2024-01-05 17:00:00,CAL,California,TI,Total interchange
+34684,2024-01-04 17:00:00,CAL,California,D,Demand
+34685,2024-01-04 17:00:00,CAL,California,DF,Day-ahead demand forecast
+34686,2024-01-04 17:00:00,CAL,California,NG,Net generation
+34687,2024-01-04 17:00:00,CAL,California,TI,Total interchange
+34780,2024-01-03 17:00:00,CAL,California,D,Demand
+34781,2024-01-03 17:00:00,CAL,California,DF,Day-ahead demand forecast
+34782,2024-01-03 17:00:00,CAL,California,NG,Net generation
+34783,2024-01-03 17:00:00,CAL,California,TI,Total interchange
+34876,2024-01-02 17:00:00,CAL,California,D,Demand
+34877,2024-01-02 17:00:00,CAL,California,DF,Day-ahead demand forecast
+34878,2024-01-02 17:00:00,CAL,California,NG,Net generation
+34879,2024-01-02 17:00:00,CAL,California,TI,Total interchange
+34972,2024-01-01 17:00:00,CAL,California,D,Demand
+34973,2024-01-01 17:00:00,CAL,California,DF,Day-ahead demand forecast
+34974,2024-01-01 17:00:00,CAL,California,NG,Net generation
+34975,2024-01-01 17:00:00,CAL,California,TI,Total interchange
